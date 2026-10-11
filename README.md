@@ -61,6 +61,10 @@ This is a game laid over real places, and the real places do most of the work. H
 <tr><td width="50%" valign="top"><img src="media/fire-on-phone.jpg" alt="The fire at Lakeside Campground, on a phone." width="60%"><br><sub>The fire at Lakeside Campground, on a phone.</sub></td><td width="50%" valign="middle">It plays on a phone, with a thumbstick on the screen and a drawer of buttons you pull up, and on a computer, where the mouse steers with no click.</td></tr>
 </table>
 
+## Built in the open: the Asset Lab
+
+Some of the things you see in the game, like the road-number posts at the forks, come from **[Momatio's Asset Lab](https://momatio.com/assets/)**: an AI agent writes a Blender script for each model, renders it, looks at its own renders, fixes what is wrong, and a person reviews the result. Every step is recorded, so you can spin each model and **watch it being made**. Nothing is bought, scanned or copied: each model is built from scratch by its script.
+
 ## The four forests
 
 Each one has its own page with a picture of tonight's camp near sunset. The picture is made fresh each day.
