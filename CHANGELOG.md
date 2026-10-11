@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 11, 2026, midday: Polish from two play-throughs
+
+- Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest
+- No glowing beacon slab at the camp you are standing at, and beacons fade out up close
+- Nothing cut off on a phone: the clock, the chip names and the replies by the fire all fit
+- Before sunrise it says "dark until" the sunrise, instead of counting light left
+- Plainer drive and demo lines
+- No keyboard hints on a phone
+
 ## October 11, 2026, morning: Water, stars and a cloudy sky
 
 - A standing Water mark on the compass band whenever drinkable water is near, with its distance and direction, the way the Rig mark works

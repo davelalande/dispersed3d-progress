@@ -8,19 +8,25 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### October 11, 2026, midday: Polish from two play-throughs
+
+- **Plainer words.** Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest. The drive and demo lines are plainer, and a phone gets no keyboard hints.
+- **Nothing cut off on a phone.** The clock, the chip names and the replies by the fire fit on the screen, and a stale caption no longer hides behind the morning card. The beacon at the camp you are standing at no longer shows as a glowing slab beside you, and beacons fade out up close.
+- **Before sunrise it says "dark until" the sunrise,** instead of counting light left at 1 AM.
+
 ### October 11, 2026, morning: Water, stars and a cloudy sky
 
 - **Tomorrow night's sky,** and a Remind me calendar file.
 - **A chair, a woodpile and the dish at camp.** The chores you tick show up: a chair by the fire ring, a few logs that leave the pile when you put one on, and the Starlink dish, only if you set it up and the photo says the site has open sky. The truck, tent and fire stay the subject.
 - **A Road mark when you are off the mapped roads.** While you are off the mapped roads, the compass band gains a Road button shaped like Rig: the distance and direction to the nearest mapped road. Tap it to face that way. It goes away once you are back on a road.
 - **Cloud shadows crossing the ground on a cloudy day.** When the forecast's sky cover is high, soft shadows drift across the hills and the road, the way they do on a Montana afternoon. On a clear day nothing changes.
-- **Feel the washboard in my hand on an Android phone.** On gravel above 12 mph the phone buzzes in short pulses with the hood's shake; a soft spot gives one thud. Off under reduced motion, with a "Buzz" switch in More.
-- **Star trails: an hour of real sky in one picture.** By the fire, "Star trails" makes the picture a real camera makes at night: the stars drawn as arcs around the North Star over an hour of this sky, the fire and the rig in front, the forest and date written on it. It shares like the postcard.
+- **The washboard in your hand on an Android phone.** On gravel above 12 mph an Android phone buzzes in short pulses with the hood's shake; a soft spot gives one thud. Off under reduced motion, and one switch in Help, Settings turns it off.
+- **Star trails: an hour of real sky in one picture.** By the fire, "Star trails" makes the picture a long camera exposure makes at night: the stars drawn as arcs around the North Star over an hour of this sky, the fire and the rig in front, the camp and forest named on it. It shares like the postcard.
 - **A sign at the fork: where each road goes, from the road map.** Driving by hand, when you slow down near a mapped junction, a small plate names the roads leaving it (number, name, the Forest Service maintenance level) and the first recorded camp down each, with miles. It goes away when you drive on.
 - **Walk to the real creek to fill the jug.** The creek is the one on the USGS stream map.
 - **The before-dark streak, and a Picture button back at camp.**
 - **The spoken caption sits where your thumb is not,** and shows in full.
-- **A short loop on foot at the trailhead camp.** The camp the record marks as a trailhead offers "Walk a short loop": a line on the real ground, out and back to the truck, and the clock charges the minutes. The walk has an end.
+- **A short loop on foot at the trailhead camp.** The camp the record marks as a trailhead offers "Walk a short loop": a path across the real ground, out to a turnaround and back to the truck, with the clock charging the minutes. The path is the game's, not a mapped trail.
 - **Share pictures.** One per forest, at tonight's camp near sunset, so a link opens with a real picture.
 - **Clouds in the sky on a cloudy forecast day.** The ground already had their shadows; now the sky draws them too.
 - **A standing Water mark on the compass band** whenever drinkable water is near, with its distance and direction, the way the Rig mark works.
@@ -30,21 +36,21 @@ Everything below is in the game you can play today, newest release first.
 
 - **Stay up and enjoy the evening,** beside Settle in for the night. Walk to the stars and back to the fire.
 - **The real creek, drawn.** Each creek near a camp is the one on the USGS stream map, drawn into the channel the lidar shows, with water flowing downhill along it.
-- **Pick up where I left off when I reopen the page.** Close the page at 9:40 PM by the fire; open it tomorrow and the title says "Continue: 9:40 PM by the fire at Langohr" above Start. One tap puts you back: the spot, heading, clock, fuel, water, fire or coals, held tent, on foot or in the rig. A new game is still one tap away. If the coals would have died by now, it says so.
-- **The Milky Way on a dark night, where it really is.** On a moonless night the band of the Milky Way arches over the trees where it really is for this place, date and hour, turned by the same clock that places the 518 stars. It fades as the Moon rises and on a smoke day, and it shows in the postcard.
-- **Tell me each thing once, the first time it matters.** The first time something matters, one plain line names it and the control for it, then never again on this device: the first dusk ("Headlights: H, or More, then Lights on a phone"), the first washboard, the first camp, the first fire, the first pull of the drawer. About twelve moments in one table.
+- **Pick up where you left off.** Close the page at 9:40 PM by the fire; open it tomorrow and the title says "Continue: 9:40 PM by the fire at Langohr" above Start. One tap puts you back where you were, with the clock as you left it. A new game is still one tap away.
+- **The Milky Way on a dark night, where it really is.** On a moonless night the band of the Milky Way arches over the trees where it really is for this place, date and hour, turned by the same clock that places the stars. It fades as the Moon rises and on a smoke day. How it looks is the game's drawing.
+- **Tell me each thing once, the first time it matters.** The first time something matters, one plain line names it and the control for it, then never again on this device: the first dusk, the first washboard, the first camp, the first fire, the first pull of the drawer, and more.
 - **Before you roll: will you make camp before dark, on the fuel you have?** On Self Drive and the route strip: "Lower Hyalite, 3.8 mi by road: about 6:40 PM, 11 min before sunset, 3.9 gal left (about N miles)." Under an hour of light at arrival the row turns amber; a camp you cannot reach before dark, or on the tank, says so. The fuel reading also gains "about N miles at this burn."
 - **Camper decals** on the truck.
 - **A real campfire recording,** a CC0 recording from Freesound.
 - **Clearer creek water.** A stony bed, ripples, glints and white water.
-- **Rain when the National Weather Service hour says rain.**
-- **Show me a night: a first run that plays itself in 90 seconds.** Beside "Drive me to &lt;goal&gt;" on the opening card: "Show me a night." The game drives itself to tonight's camp at x12, makes camp, lights a fire, and the Moon comes up. At each step the strip names what just happened and its button ("That was Self Drive: the Auto button"). A tap on the picture takes over at any moment.
-- **Sharper ground under my feet: the photo stops going blurry.** On foot and at camp, the ground reads as dirt, duff and gravel up close instead of a blurred aerial photo: a small detail tile over the photo within about 60 feet, fading out by 150 feet.
+- **Rain when the National Weather Service hour says rain.** When the hour you are driving in says rain, it rains: drops on the hood, streaks in the headlights, a darker, shinier road. On a dry forecast the air stays dry. Nothing white is ever drawn.
+- **Show me a night: a first run that plays itself in 90 seconds.** Beside "Drive me to" on the opening card: "Show me a night." The game drives itself to tonight's camp at fast-forward, makes camp, lights a fire, and the Moon comes up. At each step the strip names what just happened and its button. A tap on the picture takes over at any moment.
+- **Sharper ground under your feet.** On foot and at camp, the ground reads as dirt, duff and gravel up close instead of a blurred aerial photo: a fine detail layer over the photograph, full strength within about 70 feet of you and gone by about 130 feet.
 - **Where am I headed: the destination on the compass band while driving.** While driving, the compass band shows where you are headed (the Self Drive goal, the nearest recorded camp, or your held tent) with its distance, and an arrow when it is off the edge, the way Rig and Fire work on foot.
-- **On a computer, the extra buttons go in More.** A computer keeps the few main buttons on the bar (Hold to drive, Walk, Map); Hide names, Hide bars, Full screen, Clock, Mouse look, Title and Map this spot move into one More, the way the phone works since 10/8. The right side of the picture is forest again.
+- **On a computer, the extra buttons go in More.** The bar keeps Hold to drive, Make camp, Walk, Auto, Help and More; the rest (Back up, Map this spot, Clock, Logbook, Hide names, Hide bars, Full screen, Title) wait in More.
 - **The ground tent looks like a tent, not pale steps.** Choosing the ground tent pitches a low cloth tent in canvas colors by the rig. The pale stepped shape stays the marker that holds a site while you are away, so the two stop looking like the same thing.
 - **Wake early and watch the sun come over the real ridge.** The night card gains "Wake for first light" beside Settle in. The night ends at dawn instead of sunrise: you stand by the coals as the sky goes grey to gold and the sun breaks over the real ridge where it really does on this date. Coffee is a 10-minute chore. Then the morning card as today.
-- **Show the forest on the title screen before I press Start.** Behind the title's words, a real picture from the game (the fire at dusk, a ridge at golden hour, the Moon over the lake), so the first screen shows what this is before a word is read.
+- **The forest on the title screen.** Behind the title's words, a real picture from the game, one for each forest, so the first screen shows what this is before a word is read.
 - **Smaller fixes.** Plus 2 small fixes to wording and layout.
 
 ### October 9, 2026: The mouse steers, and Help gets a button
@@ -131,21 +137,17 @@ Everything below is in the game you can play today, newest release first.
 
 ## In the preview now
 
-These are in [the preview](https://momatio.com/dispersed3d/try) and not in the live game yet. They go live with the next release.
-
-- **Wording fixes from a second play-through.** For example, Quartzsite is a Bureau of Land Management area, not a national forest, and the drive-time lines read right.
-- **Screen fixes from a second play-through.** Cards and the phone's reply row no longer cut a word, and a stale caption no longer hides behind the morning card.
-- **The night card tells the truth at 1 AM,** when it is dark until sunrise, and the Red screen's title lines up on a computer.
+Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the live game; the next new things land there first.
 
 ## Up next
 
 - **Real fire restrictions from the Forest Service.** The Forest Service publishes fire-restriction stages for each forest. Joined to the camp records, the game could quote a real rule ("Stage 1: campfires only in rings") instead of saying the record does not say whether fires are allowed.
-- **Smaller, faster photos on phones.** Compressed ground photos so the forest loads quicker and uses less memory.
 
 ## Ideas we're weighing
 
 Nobody is building these yet. Each waits on a decision. If one matters to you, [tell us](https://github.com/davelalande/dispersed3d-progress/issues/new?template=idea.yml).
 
+- **Smaller, faster photos on phones.** Compressed ground photos, so the forest loads quicker and uses less memory. On hold for now.
 - **Wildlife: a deer or an elk at dusk.** In the headlights, or down at the creek. We hold no record of which animals live where, so this one needs real range data first, or a plain line saying the animal is the game's.
 - **Night 3 here: the stay the record allows, counted on the morning card.** The morning after you sleep at a camp whose record has a stay limit: "Night 3 here. The record allows 14 days," with the record's evidence. Past the limit, the game still does not move you; it says you are past what the record allows. Where the record is silent, the morning is silent.
 - **A sound in the night at camp.** Some nights after dark, with the sound on, there is something out there.

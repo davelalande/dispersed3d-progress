@@ -32,16 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 11, 2026, morning: Water, stars and a cloudy sky**
+**October 11, 2026, midday: Polish from two play-throughs**
 
-- A standing Water mark on the compass band whenever drinkable water is near, with its distance and direction, the way the Rig mark works
-- Walk to the real creek to fill the jug, instead of waiting out a trip in minutes
-- A sign at the fork, saying where each road goes, read from the road map
-- Star trails: an hour of this sky, computed, drawn as one picture by the fire at night
-- Tomorrow night's sky, with a Remind me calendar file
-- Clouds in the sky on a cloudy forecast day, with their shadows crossing the ground
-- A short loop on foot at a trailhead camp
-- A camp chair, a woodpile and the Starlink dish at camp
+- Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest
+- No glowing beacon slab at the camp you are standing at, and beacons fade out up close
+- Nothing cut off on a phone: the clock, the chip names and the replies by the fire all fit
+- Before sunrise it says "dark until" the sunrise, instead of counting light left
+- Plainer drive and demo lines
+- No keyboard hints on a phone
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -79,15 +77,14 @@ Each one has its own page with a picture of tonight's camp near sunset. The pict
 **Up next**
 
 - **Real fire restrictions from the Forest Service.** The Forest Service publishes fire-restriction stages for each forest. Joined to the camp records, the game could quote a real rule ("Stage 1: campfires only in rings") instead of saying the record does not say whether fires are allowed.
-- **Smaller, faster photos on phones.** Compressed ground photos so the forest loads quicker and uses less memory.
 
 **Ideas we're weighing** (nothing is built until we decide)
 
+- Smaller, faster photos on phones
 - Wildlife: a deer or an elk at dusk
 - Night 3 here: the stay the record allows, counted on the morning card
 - A sound in the night at camp
 - Read this card aloud, in the phone's own voice
-- Fold the About page into Help
 
 [The whole roadmap](https://github.com/davelalande/dispersed3d-progress/blob/main/ROADMAP.md)
 
