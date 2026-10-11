@@ -1,0 +1,44 @@
+name: A bug
+description: Something broke, or looked wrong
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sorry about that. Tell us what you saw. A screenshot helps if you have one.
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what did you see instead?
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: What do you play on?
+      options:
+        - iPhone
+        - Android phone
+        - Tablet
+        - Windows computer
+        - Mac
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Which browser?
+      description: For example Safari, Chrome or Firefox.
+  - type: dropdown
+    id: forest
+    attributes:
+      label: Which forest were you in?
+      options:
+        - Not sure
+        - Lolo National Forest
+        - Custer Gallatin National Forest
+        - Beaverhead-Deerlodge National Forest
+        - Quartzsite (BLM Yuma Field Office)

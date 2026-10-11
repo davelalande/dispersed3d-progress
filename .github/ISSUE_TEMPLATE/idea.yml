@@ -1,0 +1,37 @@
+name: An idea
+description: Something you would like the game to do
+title: "Idea: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for telling us. Say it in your own words. No code needed.
+  - type: textarea
+    id: wish
+    attributes:
+      label: What would you like?
+      description: What would you do in the game that you can't do now, and why would it matter to you?
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: What do you play on?
+      options:
+        - iPhone
+        - Android phone
+        - Tablet
+        - Windows computer
+        - Mac
+        - Something else
+  - type: dropdown
+    id: forest
+    attributes:
+      label: Which forest, if it matters?
+      options:
+        - Not about one forest
+        - Lolo National Forest
+        - Custer Gallatin National Forest
+        - Beaverhead-Deerlodge National Forest
+        - Quartzsite (BLM Yuma Field Office)
