@@ -32,11 +32,10 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 12, 2026, early morning: Camp gear, the Season Book, and a neighbor at dusk**
+**October 12, 2026, afternoon: Who else is out tonight, and a picture of each night**
 
-- Your camp has gear beside the truck: a folding table with a lantern that lights at dusk, a cooler, a water jug, a jerry can, an axe and a shovel, all built in Momatio's Asset Lab
-- The Season Book puts your season's nights on one page you can print or save. Open it from the logbook's "Print my season"
-- Once a season, at dusk, a neighbor stands by his pickup on the nearest road and gives a slow wave when you look his way, and the game tells you once who he is: Dave, who makes the game
+- When you make camp, the game says once how many others made camp in the same forest tonight. A count, never who or where
+- The game keeps a small picture of each night at camp, and the Season Book shows it beside that night
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -77,15 +76,15 @@ Each one has its own page with a picture of tonight's camp near sunset. The pict
 
 **Up next**
 
-- **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
-- **The Season Book shows a small picture of each night, taken by the game at camp.**
+- **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
+- **Help becomes the About page.** What the game is, that you are managing time, and the key map, in one place.
+- **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
+- **Lightning on stormy nights.** When the Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck.
 
 **Ideas we're weighing** (nothing is built until we decide)
 
 - Smaller, faster photos on phones
 - Wildlife: a deer or an elk at dusk
-- Night 3 here: the stay the record allows, counted on the morning card
-- A sound in the night at camp
 - Read this card aloud, in the phone's own voice
 
 [The whole roadmap](https://github.com/davelalande/dispersed3d-progress/blob/main/ROADMAP.md)

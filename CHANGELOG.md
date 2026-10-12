@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 12, 2026, afternoon: Who else is out tonight, and a picture of each night
+
+- When you make camp, the game says once how many others made camp in the same forest tonight. A count, never who or where
+- The game keeps a small picture of each night at camp, and the Season Book shows it beside that night
+
 ## October 12, 2026, early morning: Camp gear, the Season Book, and a neighbor at dusk
 
 - Your camp has gear beside the truck: a folding table with a lantern that lights at dusk, a cooler, a water jug, a jerry can, an axe and a shovel, all built in Momatio's Asset Lab

@@ -8,6 +8,11 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### October 12, 2026, afternoon: Who else is out tonight, and a picture of each night
+
+- **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
+- **The Season Book shows a small picture of each night, taken by the game at camp.**
+
 ### October 12, 2026, early morning: Camp gear, the Season Book, and a neighbor at dusk
 
 - **Camp gear from Momatio's Asset Lab beside the truck: a folding table with a lantern that lights at dusk, a cooler, a water jug, a jerry can, an axe and a shovel, with a credit line in About.**
@@ -153,8 +158,12 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
-- **The Season Book shows a small picture of each night, taken by the game at camp.**
+- **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
+- **Help becomes the About page.** What the game is, that you are managing time, and the key map, in one place.
+- **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
+- **Lightning on stormy nights.** When the Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck.
+- **A sound in the night.** Some nights, something out at the edge of camp. The game does not pretend to know what.
+- **Night 3 here.** The morning card counts your nights at a camp against the stay the record allows.
 
 ## Ideas we're weighing
 
@@ -162,10 +171,7 @@ Nobody is building these yet. Each waits on a decision. If one matters to you, [
 
 - **Smaller, faster photos on phones.** Compressed ground photos, so the forest loads quicker and uses less memory. On hold for now.
 - **Wildlife: a deer or an elk at dusk.** In the headlights, or down at the creek. We hold no record of which animals live where, so this one needs real range data first, or a plain line saying the animal is the game's.
-- **Night 3 here: the stay the record allows, counted on the morning card.** The morning after you sleep at a camp whose record has a stay limit: "Night 3 here. The record allows 14 days," with the record's evidence. Past the limit, the game still does not move you; it says you are past what the record allows. Where the record is silent, the morning is silent.
-- **A sound in the night at camp.** Some nights after dark, with the sound on, there is something out there.
 - **Read this card aloud, in the phone's own voice.** The camp, night, morning and trouble cards get one Read button. The phone speaks the words already on the card; a second tap stops it. It is the browser's voice, not Dave's, and the button says so. If the phone cannot speak, the button is not there.
-- **Fold the About page into Help.** Help is the first version; the next step is one place that says what is real and what is not, next to the key map.
 
 ---
 
