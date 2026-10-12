@@ -100,6 +100,7 @@ Everything below is in the game you can play today, newest release first.
 - **Say where you are, and what is real right now.** A Real right now card says what on the screen comes from a record, and how old that record is.
 - **The fire ring sits beside the rig** when you make camp.
 - **Work lights.** The rig's own extra lights, separate from the headlights.
+- **Real fire rules at camp.** The camp card and the Start a fire button quote the forest's current fire rule, read once a day from the agencies' own notices.
 
 ### October 4, 2026: The sky at camp, and a logbook for your season
 
@@ -152,7 +153,8 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **Real fire restrictions from the Forest Service.** The Forest Service publishes fire-restriction stages for each forest. Joined to the camp records, the game could quote a real rule ("Stage 1: campfires only in rings") instead of saying the record does not say whether fires are allowed.
+- **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
+- **The Season Book shows a small picture of each night, taken by the game at camp.**
 
 ## Ideas we're weighing
 

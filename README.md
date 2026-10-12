@@ -77,7 +77,8 @@ Each one has its own page with a picture of tonight's camp near sunset. The pict
 
 **Up next**
 
-- **Real fire restrictions from the Forest Service.** The Forest Service publishes fire-restriction stages for each forest. Joined to the camp records, the game could quote a real rule ("Stage 1: campfires only in rings") instead of saying the record does not say whether fires are allowed.
+- **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
+- **The Season Book shows a small picture of each night, taken by the game at camp.**
 
 **Ideas we're weighing** (nothing is built until we decide)
 
