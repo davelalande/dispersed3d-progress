@@ -32,14 +32,10 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 11, 2026, midday: Polish from two play-throughs**
+**October 11, 2026, evening: Road-number posts at the forks**
 
-- Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest
-- No glowing beacon slab at the camp you are standing at, and beacons fade out up close
-- Nothing cut off on a phone: the clock, the chip names and the replies by the fire all fit
-- Before sunrise it says "dark until" the sunrise, instead of counting light left
-- Plainer drive and demo lines
-- No keyboard hints on a phone
+- Real Forest Service road-number posts stand at the forks, on roads that have a number in the road data. The post itself was built in Momatio's Asset Lab, where you can watch it being made
+- Help and the About page link this progress page, with one plain line
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 11, 2026, evening: Road-number posts at the forks
+
+- Real Forest Service road-number posts stand at the forks, on roads that have a number in the road data. The post itself was built in Momatio's Asset Lab, where you can watch it being made
+- Help and the About page link this progress page, with one plain line
+
 ## October 11, 2026, midday: Polish from two play-throughs
 
 - Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest
