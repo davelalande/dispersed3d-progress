@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 12, 2026, early morning: Camp gear, the Season Book, and a neighbor at dusk
+
+- Your camp has gear beside the truck: a folding table with a lantern that lights at dusk, a cooler, a water jug, a jerry can, an axe and a shovel, all built in Momatio's Asset Lab
+- The Season Book puts your season's nights on one page you can print or save. Open it from the logbook's "Print my season"
+- Once a season, at dusk, a neighbor stands by his pickup on the nearest road and gives a slow wave when you look his way, and the game tells you once who he is: Dave, who makes the game
+
 ## October 11, 2026, evening: Road-number posts at the forks
 
 - Real Forest Service road-number posts stand at the forks, on roads that have a number in the road data. The post itself was built in Momatio's Asset Lab, where you can watch it being made

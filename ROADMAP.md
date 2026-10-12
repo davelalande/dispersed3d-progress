@@ -8,6 +8,17 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### October 12, 2026, early morning: Camp gear, the Season Book, and a neighbor at dusk
+
+- **Camp gear from Momatio's Asset Lab beside the truck: a folding table with a lantern that lights at dusk, a cooler, a water jug, a jerry can, an axe and a shovel, with a credit line in About.**
+- **The Season Book: your season's nights on one page you can print or save, opened from the logbook's "Print my season".**
+- **Dave, the camp neighbor: once a season at dusk, beside a pickup on the nearest road, a slow wave when you look his way, and one line from the game saying who he is.**
+
+### October 11, 2026, evening: Road-number posts at the forks
+
+- **Link the public progress page from Help's foot and the About page, one plain line, no new button.**
+- **Real road-number posts at the forks, from Momatio's Asset Lab.**
+
 ### October 11, 2026, midday: Polish from two play-throughs
 
 - **Plainer words.** Quartzsite reads as public land (a Bureau of Land Management area), never as a national forest. The drive and demo lines are plainer, and a phone gets no keyboard hints.
@@ -51,8 +62,6 @@ Everything below is in the game you can play today, newest release first.
 - **The ground tent looks like a tent, not pale steps.** Choosing the ground tent pitches a low cloth tent in canvas colors by the rig. The pale stepped shape stays the marker that holds a site while you are away, so the two stop looking like the same thing.
 - **Wake early and watch the sun come over the real ridge.** The night card gains "Wake for first light" beside Settle in. The night ends at dawn instead of sunrise: you stand by the coals as the sky goes grey to gold and the sun breaks over the real ridge where it really does on this date. Coffee is a 10-minute chore. Then the morning card as today.
 - **The forest on the title screen.** Behind the title's words, a real picture from the game, one for each forest, so the first screen shows what this is before a word is read.
-- **Link the public progress page from Help's foot and the About page, one plain line, no new button.**
-- **Real road-number posts at the forks, from Momatio's Asset Lab.**
 - **Smaller fixes.** Plus 2 small fixes to wording and layout.
 
 ### October 9, 2026: The mouse steers, and Help gets a button
