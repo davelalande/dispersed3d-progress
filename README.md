@@ -32,13 +32,13 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear**
+**October 13, 2026, early morning: Getting level, the camp page, and keys that drive**
 
-- When the National Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck
-- Help is now the About page: what the game is, that you are managing time, and the key map, with one small "New here?" note on a first visit
-- The camp gear draws its real surfaces (worn paint, scratches, seams), with smaller pictures on phones, loaded as you reach camp
-- Some nights, a sound at the edge of camp. The game does not pretend to know what it was
-- The morning card counts your nights at a camp against the stay the record allows, and says when it is the general 14-day rule instead
+- At camp, getting level the way Dave does it: engine off, listen, then a two-vial level reading the real USGS lidar under your four wheels. Pull ahead, slide a traction board or a flat rock under a low wheel, or find flatter ground
+- One Camp button, a quiet camped line at the top, and a camp page with your fire, water, fuel, level, tonight's sky and weather, and a REAL tag naming the source of every outside number
+- No driving off with the fire lit: one card, put it out and pack up, or stay
+- Keys drive on a computer and the thumb stick drives on a phone; the hold-to-drive button is gone. The mouse keeps steering past the edge of the picture. Auto is now Drive
+- Dave's own truck with its real finish on a computer; Dave as the once-a-season camp neighbor, now his realistic model; and some evenings a deer on the road at dusk, the game's own deer
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -79,7 +79,6 @@ Each one has its own page with a picture of tonight's camp near sunset. The pict
 
 **Up next**
 
-- **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
 
 **Ideas we're weighing** (nothing is built until we decide)
 

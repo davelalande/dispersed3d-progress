@@ -8,6 +8,19 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### October 13, 2026, early morning: Getting level, the camp page, and keys that drive
+
+- **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
+- **Dave's own truck with its real finish on a computer, loaded after the world is ready; phones keep the lighter truck.**
+- **The game page's search basics: title, description, share card and structured data.**
+- **The once-a-season camp neighbor is Dave's realistic Asset Lab model, lighter for the game, with its clothing credited.**
+- **One "Camp" button and a quiet camped line at the top, true to the fire and chair.**
+- **No driving off with the fire lit or camp out: one card, "Put it out and pack up" or "Stay".**
+- **"Auto" becomes "Drive"; the keys drive on a computer; phones drive with the thumb stick.**
+- **The mouse keeps steering when pushed past the edge of the picture, and lets go cleanly.**
+- **The camp dashboard: fire, chair, water, fuel, level, tonight's sky and weather, chores, with a REAL tag naming each source.**
+- **Getting level at camp: engine off and listen, a two-vial level reading the real USGS lidar under four wheels, pull ahead, a traction board or a flat rock.**
+
 ### October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear
 
 - **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
@@ -166,7 +179,6 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
 
 ## Ideas we're weighing
 

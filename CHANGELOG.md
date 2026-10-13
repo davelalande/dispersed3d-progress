@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 13, 2026, early morning: Getting level, the camp page, and keys that drive
+
+- At camp, getting level the way Dave does it: engine off, listen, then a two-vial level reading the real USGS lidar under your four wheels. Pull ahead, slide a traction board or a flat rock under a low wheel, or find flatter ground
+- One Camp button, a quiet camped line at the top, and a camp page with your fire, water, fuel, level, tonight's sky and weather, and a REAL tag naming the source of every outside number
+- No driving off with the fire lit: one card, put it out and pack up, or stay
+- Keys drive on a computer and the thumb stick drives on a phone; the hold-to-drive button is gone. The mouse keeps steering past the edge of the picture. Auto is now Drive
+- Dave's own truck with its real finish on a computer; Dave as the once-a-season camp neighbor, now his realistic model; and some evenings a deer on the road at dusk, the game's own deer
+
 ## October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear
 
 - When the National Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck
