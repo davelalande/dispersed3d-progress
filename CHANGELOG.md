@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear
+
+- When the National Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck
+- Help is now the About page: what the game is, that you are managing time, and the key map, with one small "New here?" note on a first visit
+- The camp gear draws its real surfaces (worn paint, scratches, seams), with smaller pictures on phones, loaded as you reach camp
+- Some nights, a sound at the edge of camp. The game does not pretend to know what it was
+- The morning card counts your nights at a camp against the stay the record allows, and says when it is the general 14-day rule instead
+
 ## October 12, 2026, afternoon: Who else is out tonight, and a picture of each night
 
 - When you make camp, the game says once how many others made camp in the same forest tonight. A count, never who or where

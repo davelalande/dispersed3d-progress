@@ -32,10 +32,13 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 12, 2026, afternoon: Who else is out tonight, and a picture of each night**
+**October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear**
 
-- When you make camp, the game says once how many others made camp in the same forest tonight. A count, never who or where
-- The game keeps a small picture of each night at camp, and the Season Book shows it beside that night
+- When the National Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck
+- Help is now the About page: what the game is, that you are managing time, and the key map, with one small "New here?" note on a first visit
+- The camp gear draws its real surfaces (worn paint, scratches, seams), with smaller pictures on phones, loaded as you reach camp
+- Some nights, a sound at the edge of camp. The game does not pretend to know what it was
+- The morning card counts your nights at a camp against the stay the record allows, and says when it is the general 14-day rule instead
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -76,10 +79,7 @@ Each one has its own page with a picture of tonight's camp near sunset. The pict
 
 **Up next**
 
-- **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
-- **Help becomes the About page.** What the game is, that you are managing time, and the key map, in one place.
 - **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
-- **Lightning on stormy nights.** When the Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck.
 
 **Ideas we're weighing** (nothing is built until we decide)
 

@@ -8,6 +8,14 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### October 12, 2026, evening: Lightning on stormy nights, Help as the About page, and sharper camp gear
+
+- **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
+- **Help becomes the About page.** What the game is, that you are managing time, and the key map, in one place.
+- **Lightning on stormy nights.** When the Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck.
+- **A sound in the night.** Some nights, something out at the edge of camp. The game does not pretend to know what.
+- **Night 3 here.** The morning card counts your nights at a camp against the stay the record allows.
+
 ### October 12, 2026, afternoon: Who else is out tonight, and a picture of each night
 
 - **Who's out tonight: when you make camp, the game says once how many others made camp in the same forest tonight; a count, never who or where.**
@@ -158,12 +166,7 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **Sharper camp gear.** The camp gear draws its real surfaces (worn paint, scratches, seams), starting with the jerry can, with smaller pictures on phones.
-- **Help becomes the About page.** What the game is, that you are managing time, and the key map, in one place.
 - **A deer at dusk.** Now and then a deer on the road at dusk. It is the game's deer, and the game says so.
-- **Lightning on stormy nights.** When the Weather Service forecast calls for thunderstorms near you: flashes, strikes, thunder you can count, and the safe move, off the ridge and into the truck.
-- **A sound in the night.** Some nights, something out at the edge of camp. The game does not pretend to know what.
-- **Night 3 here.** The morning card counts your nights at a camp against the stay the record allows.
 
 ## Ideas we're weighing
 
