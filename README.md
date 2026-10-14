@@ -32,14 +32,15 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 14, 2026, early morning: A quick start, wet roads after rain, and the night sky to share**
+**October 14, 2026, afternoon: Bark up close, real road surfaces, gear shadows and the elk at dusk**
 
-- A short quick start right after Start: you are in a reconstruction of the real forest (USGS lidar ground, the USGS aerial photo), look for the REAL badges, the keys or stick, the Drive and Camp buttons, and your progress kept in this browser. Don't show this again is one tick
-- After forecast rain the roads read wet: darker, little dust, puddles in the lidar's real dips, a splash over the hood, and more soft spots on rough roads while they dry. The forecast is the Weather Service's; the wet look is the game's reading of it
-- At first light, fog in the low ground and dew on the hood when the forecast has the air near its dew point and calm; said as the game's inference
-- The sky to share: tonight's space station and newest Starlink train passes with a heads-up, and a short clip of the dawn or a pass you can post
-- Camp life: the dish's sky view from the real ridge and trees, an engine-off soundtrack of wind and creek, breaking camp the Forest Service way (dead out, tent down), and now and then another party's rig already in a spot, so you drive on
-- A share link opens your friend's night, a returning title says what changed since last night, and each share page names its camp's record on davelalande.com, with Plan the real trip from your season
+- Up close the ground and the trees are real materials: bark and needles you can see, and a road whose record names its surface now wears it (gravel, native dirt or asphalt, from photographed materials) instead of one plain band
+- The truck, the tent and the camp gear cast real shadows near the rig, and take them
+- The bull elk at dusk, in the three Montana forests that have elk
+- The best dark night of the next seven, named on the title and the morning card: the cloud is the Weather Service's sky cover, the Moon times are the game's own arithmetic. Your first evening is told in order, once
+- See this spot for real: the game's view beside the USGS aerial photo. The Season Book's real trip prints, with links to each night's real forecast and town, and Plan the real trip opens davelalande.com/trip with the camps you slept at
+- Every REAL badge is a link to its source on the What is real page, which now uses davelalande.com's own words for the five sources both share
+- A lighter first visit: the graphics engine now loads as one compact file, about 490 KB less to download, and momatio's menu sits at the top of the game's own pages
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
