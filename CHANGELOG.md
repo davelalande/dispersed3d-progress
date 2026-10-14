@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 14, 2026, early morning: A quick start, wet roads after rain, and the night sky to share
+
+- A short quick start right after Start: you are in a reconstruction of the real forest (USGS lidar ground, the USGS aerial photo), look for the REAL badges, the keys or stick, the Drive and Camp buttons, and your progress kept in this browser. Don't show this again is one tick
+- After forecast rain the roads read wet: darker, little dust, puddles in the lidar's real dips, a splash over the hood, and more soft spots on rough roads while they dry. The forecast is the Weather Service's; the wet look is the game's reading of it
+- At first light, fog in the low ground and dew on the hood when the forecast has the air near its dew point and calm; said as the game's inference
+- The sky to share: tonight's space station and newest Starlink train passes with a heads-up, and a short clip of the dawn or a pass you can post
+- Camp life: the dish's sky view from the real ridge and trees, an engine-off soundtrack of wind and creek, breaking camp the Forest Service way (dead out, tent down), and now and then another party's rig already in a spot, so you drive on
+- A share link opens your friend's night, a returning title says what changed since last night, and each share page names its camp's record on davelalande.com, with Plan the real trip from your season
+
 ## October 13, 2026, early morning: Getting level, the camp page, and keys that drive
 
 - At camp, getting level the way Dave does it: engine off, listen, then a two-vial level reading the real USGS lidar under your four wheels. Pull ahead, slide a traction board or a flat rock under a low wheel, or find flatter ground

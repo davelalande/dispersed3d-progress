@@ -32,13 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 13, 2026, early morning: Getting level, the camp page, and keys that drive**
+**October 14, 2026, early morning: A quick start, wet roads after rain, and the night sky to share**
 
-- At camp, getting level the way Dave does it: engine off, listen, then a two-vial level reading the real USGS lidar under your four wheels. Pull ahead, slide a traction board or a flat rock under a low wheel, or find flatter ground
-- One Camp button, a quiet camped line at the top, and a camp page with your fire, water, fuel, level, tonight's sky and weather, and a REAL tag naming the source of every outside number
-- No driving off with the fire lit: one card, put it out and pack up, or stay
-- Keys drive on a computer and the thumb stick drives on a phone; the hold-to-drive button is gone. The mouse keeps steering past the edge of the picture. Auto is now Drive
-- Dave's own truck with its real finish on a computer; Dave as the once-a-season camp neighbor, now his realistic model; and some evenings a deer on the road at dusk, the game's own deer
+- A short quick start right after Start: you are in a reconstruction of the real forest (USGS lidar ground, the USGS aerial photo), look for the REAL badges, the keys or stick, the Drive and Camp buttons, and your progress kept in this browser. Don't show this again is one tick
+- After forecast rain the roads read wet: darker, little dust, puddles in the lidar's real dips, a splash over the hood, and more soft spots on rough roads while they dry. The forecast is the Weather Service's; the wet look is the game's reading of it
+- At first light, fog in the low ground and dew on the hood when the forecast has the air near its dew point and calm; said as the game's inference
+- The sky to share: tonight's space station and newest Starlink train passes with a heads-up, and a short clip of the dawn or a pass you can post
+- Camp life: the dish's sky view from the real ridge and trees, an engine-off soundtrack of wind and creek, breaking camp the Forest Service way (dead out, tent down), and now and then another party's rig already in a spot, so you drive on
+- A share link opens your friend's night, a returning title says what changed since last night, and each share page names its camp's record on davelalande.com, with Plan the real trip from your season
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
