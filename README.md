@@ -32,11 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 15, 2026, morning: Wake for the pass after midnight, cliffs that read as rock, and a lighter visit after a phone runs out of room**
+**October 15, 2026, afternoon: Stow the food where the Forest Service says so, rain on the tent, a creek that sounds like its gauge, and cliffs without streaks**
 
-- On a night when the space station, the newest Starlink train or a meteor shower's peak comes after midnight, the night card offers one more choice beside Wake for first light, such as "Wake for the 5:54 AM pass". You sleep as Settle in does and are woken 8 minutes ahead by the coals, facing where it comes up, with one line saying what it is and which way to look. Back to sleep, at the bottom, sleeps on to sunrise. The times are computed from CelesTrak's orbits and the International Meteor Organization's shower table for a clear sky, and a cloudy hour in the Weather Service's forecast is said, not hidden. On other nights nothing changes
-- Bare ground the USGS elevation map measures as steep now shows a photographed rock surface, a free-to-use picture of other rock that adds grain and cracks; the federal aerial photo still sets the color. On phones too
-- If a phone ran out of room last time, the next visit opens lighter (fewer trees, smaller ground photos, the extra shading off) and says so once. Help, Settings puts the full picture back, and two clean visits in a row put it back by themselves. If the 3D picture is lost, a Reload button shows instead of a black screen
+- Where a forest's own alerts page posts a Food Storage Order, the night checklist gains "Stow the food: cooler and food in the truck", with the order's number, its dates and a link to the order. The game works out each camp's ranger district from the Forest Service's district map, so the chore says plainly when a camp is inside the area the order names; where the order's area cannot be placed, it says that too. Where no order is posted, nothing changes
+- Rain on the tent: in the hours the National Weather Service forecast says rain, settled in or sitting by the fire you hear it, louder in the tent than by the fire. The sound is made by the game itself, not a recording, and stays off until you turn the sound on. The morning card says which hours it rained, by the forecast
+- At the three camps on Hyalite Creek, the creek is louder when the USGS gauge reads higher than on your first night there and quieter when it reads lower, and the engine-off card says why, with the gauge's own height and the time it was read
+- Steep faces no longer show long green and brown stripes where the overhead photo was stretched down the cliff: they take their color from the photo around them, and the rock grain shows
+- On a phone, the second night in a forest offers once to put the game on your Home Screen: a button where the browser can install it, the Share steps on an iPhone
+- On davelalande.com, the 22 camp pages the game holds now show the game's own picture of that camp before sunset, labeled as the game's view, and the game's day there: the fire rule, tonight's low and the creek gauge, each with its source
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
