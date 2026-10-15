@@ -32,14 +32,12 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 14, 2026, evening: Steering that keeps turning, real fire rings and a smoother first visit**
+**October 15, 2026, early morning: When the sun really leaves camp, tonight's low, and a level you can read**
 
-- A, D and the arrow keys (and the stick, sideways) now turn the rig for as long as you hold them, at the rate a rig turns, and the view turns with the cab. Before, a held key stopped turning after about 34 degrees
-- The campfire: a ring of real stones at a dispersed site, and the Forest Service steel ring with its grate where the camp's record says it is a fee campground; split firewood with bark that chars as it burns down, a cracked bed of glowing coals, and soft wisps of smoke that drift with the forecast wind
-- A smoother drive: the first time you drive in among the trees a phone no longer stops for a second, and the game's warm-up now prepares the pictures the frame really draws
-- A first visit opens on a forest that is open today, starts you on a mapped road near the first camp, highlights one camp to drive to, waits until you have stopped before opening the camp card (which then says You are here), and keeps the level card's button on the screen
-- The Fire button on foot turns you to face the fire and keeps it centred
-- Sharper ground and road surfaces seen at a slant, and the page itself is about 480 KB smaller to download (the notes and spacing in the game’s own code are taken out when it is built)
+- Where a ridge to the west hides the sun early, the game now says when it goes behind that ridge and camp falls into shade, worked out from the USGS elevation map of bare ground (so the trees take a few more minutes). At Langohr in the Custer Gallatin on October 11 that is about 5:19 PM, almost an hour and a half before the almanac's 6:46 PM sunset. It is on the drive planner's arrival line, the camp dashboard's sky row and, once, at camp. A camp with an open sky to the west says nothing extra
+- Tonight's low and the temperature at first light, from the National Weather Service's hourly forecast: the camp dashboard gives the night's coldest hour with its time, the morning card the forecast at first light, and a night under 40 degrees is said once as you make camp. Where the forecast has no hours for the night, it says nothing
+- The level card draws the red T level straight down and large: both vials with their one-degree marks, a big bubble with a green rim when it is level enough and amber when it is not, and an arrow on the low end. On a phone the level, both readings and the verdict fit without scrolling
+- On a phone the route strip keeps to the arrival time, the light and the gas, so it no longer pushes the captions down onto the thumb stick
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

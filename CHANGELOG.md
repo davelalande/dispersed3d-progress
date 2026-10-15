@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 15, 2026, early morning: When the sun really leaves camp, tonight's low, and a level you can read
+
+- Where a ridge to the west hides the sun early, the game now says when it goes behind that ridge and camp falls into shade, worked out from the USGS elevation map of bare ground (so the trees take a few more minutes). At Langohr in the Custer Gallatin on October 11 that is about 5:19 PM, almost an hour and a half before the almanac's 6:46 PM sunset. It is on the drive planner's arrival line, the camp dashboard's sky row and, once, at camp. A camp with an open sky to the west says nothing extra
+- Tonight's low and the temperature at first light, from the National Weather Service's hourly forecast: the camp dashboard gives the night's coldest hour with its time, the morning card the forecast at first light, and a night under 40 degrees is said once as you make camp. Where the forecast has no hours for the night, it says nothing
+- The level card draws the red T level straight down and large: both vials with their one-degree marks, a big bubble with a green rim when it is level enough and amber when it is not, and an arrow on the low end. On a phone the level, both readings and the verdict fit without scrolling
+- On a phone the route strip keeps to the arrival time, the light and the gas, so it no longer pushes the captions down onto the thumb stick
+
 ## October 14, 2026, evening: Steering that keeps turning, real fire rings and a smoother first visit
 
 - A, D and the arrow keys (and the stick, sideways) now turn the rig for as long as you hold them, at the rate a rig turns, and the view turns with the cab. Before, a held key stopped turning after about 34 degrees
