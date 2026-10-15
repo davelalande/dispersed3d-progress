@@ -32,12 +32,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 15, 2026, early morning: When the sun really leaves camp, tonight's low, and a level you can read**
+**October 15, 2026, morning: Wake for the pass after midnight, cliffs that read as rock, and a lighter visit after a phone runs out of room**
 
-- Where a ridge to the west hides the sun early, the game now says when it goes behind that ridge and camp falls into shade, worked out from the USGS elevation map of bare ground (so the trees take a few more minutes). At Langohr in the Custer Gallatin on October 11 that is about 5:19 PM, almost an hour and a half before the almanac's 6:46 PM sunset. It is on the drive planner's arrival line, the camp dashboard's sky row and, once, at camp. A camp with an open sky to the west says nothing extra
-- Tonight's low and the temperature at first light, from the National Weather Service's hourly forecast: the camp dashboard gives the night's coldest hour with its time, the morning card the forecast at first light, and a night under 40 degrees is said once as you make camp. Where the forecast has no hours for the night, it says nothing
-- The level card draws the red T level straight down and large: both vials with their one-degree marks, a big bubble with a green rim when it is level enough and amber when it is not, and an arrow on the low end. On a phone the level, both readings and the verdict fit without scrolling
-- On a phone the route strip keeps to the arrival time, the light and the gas, so it no longer pushes the captions down onto the thumb stick
+- On a night when the space station, the newest Starlink train or a meteor shower's peak comes after midnight, the night card offers one more choice beside Wake for first light, such as "Wake for the 5:54 AM pass". You sleep as Settle in does and are woken 8 minutes ahead by the coals, facing where it comes up, with one line saying what it is and which way to look. Back to sleep, at the bottom, sleeps on to sunrise. The times are computed from CelesTrak's orbits and the International Meteor Organization's shower table for a clear sky, and a cloudy hour in the Weather Service's forecast is said, not hidden. On other nights nothing changes
+- Bare ground the USGS elevation map measures as steep now shows a photographed rock surface, a free-to-use picture of other rock that adds grain and cracks; the federal aerial photo still sets the color. On phones too
+- If a phone ran out of room last time, the next visit opens lighter (fewer trees, smaller ground photos, the extra shading off) and says so once. Help, Settings puts the full picture back, and two clean visits in a row put it back by themselves. If the 3D picture is lost, a Reload button shows instead of a black screen
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
