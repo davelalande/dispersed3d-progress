@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 15, 2026, evening: The real dusk, the Moon's real face, the Milky Way as photographed, and a day at camp
+
+- Dusk is now worked out by the game's own model of sunlight passing through the air, instead of a hand-picked table of colors: an orange band low over the real ridge, fading through lilac to blue after the sun goes down, and properly dark at night
+- The Moon wears its real face, from NASA's Lunar Reconnaissance Orbiter map, lit by tonight's real phase, and at a dark camp the Milky Way is the European Southern Observatory's all-sky photograph, placed by the same clock as the stars
+- A day at camp: the morning card offers "Stay today". The afternoon follows the Weather Service's real hours, the sun crosses camp and the truck's shade moves with it, and the evening ends at the real dark. What a day costs in water is the game's guess, labeled as one
+- The Starlink dish, the traction boards and a steel pipe gate built in Momatio's Asset Lab replace the plain shapes, and the ground tent has canvas with seams
+- On a phone, the truck shows its full finish while you are parked at camp, and on dirt roads dust builds up on the hood until the forecast's rain washes it off
+- On a phone, smoother edges along tree lines and ridges can be switched on by adding &aa=1 to the game's address. It stays off until it has been tried on real phones
+
 ## October 15, 2026, afternoon: Stow the food where the Forest Service says so, rain on the tent, a creek that sounds like its gauge, and cliffs without streaks
 
 - Where a forest's own alerts page posts a Food Storage Order, the night checklist gains "Stow the food: cooler and food in the truck", with the order's number, its dates and a link to the order. The game works out each camp's ranger district from the Forest Service's district map, so the chore says plainly when a camp is inside the area the order names; where the order's area cannot be placed, it says that too. Where no order is posted, nothing changes

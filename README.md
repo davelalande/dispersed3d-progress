@@ -32,14 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 15, 2026, afternoon: Stow the food where the Forest Service says so, rain on the tent, a creek that sounds like its gauge, and cliffs without streaks**
+**October 15, 2026, evening: The real dusk, the Moon's real face, the Milky Way as photographed, and a day at camp**
 
-- Where a forest's own alerts page posts a Food Storage Order, the night checklist gains "Stow the food: cooler and food in the truck", with the order's number, its dates and a link to the order. The game works out each camp's ranger district from the Forest Service's district map, so the chore says plainly when a camp is inside the area the order names; where the order's area cannot be placed, it says that too. Where no order is posted, nothing changes
-- Rain on the tent: in the hours the National Weather Service forecast says rain, settled in or sitting by the fire you hear it, louder in the tent than by the fire. The sound is made by the game itself, not a recording, and stays off until you turn the sound on. The morning card says which hours it rained, by the forecast
-- At the three camps on Hyalite Creek, the creek is louder when the USGS gauge reads higher than on your first night there and quieter when it reads lower, and the engine-off card says why, with the gauge's own height and the time it was read
-- Steep faces no longer show long green and brown stripes where the overhead photo was stretched down the cliff: they take their color from the photo around them, and the rock grain shows
-- On a phone, the second night in a forest offers once to put the game on your Home Screen: a button where the browser can install it, the Share steps on an iPhone
-- On davelalande.com, the 22 camp pages the game holds now show the game's own picture of that camp before sunset, labeled as the game's view, and the game's day there: the fire rule, tonight's low and the creek gauge, each with its source
+- Dusk is now worked out by the game's own model of sunlight passing through the air, instead of a hand-picked table of colors: an orange band low over the real ridge, fading through lilac to blue after the sun goes down, and properly dark at night
+- The Moon wears its real face, from NASA's Lunar Reconnaissance Orbiter map, lit by tonight's real phase, and at a dark camp the Milky Way is the European Southern Observatory's all-sky photograph, placed by the same clock as the stars
+- A day at camp: the morning card offers "Stay today". The afternoon follows the Weather Service's real hours, the sun crosses camp and the truck's shade moves with it, and the evening ends at the real dark. What a day costs in water is the game's guess, labeled as one
+- The Starlink dish, the traction boards and a steel pipe gate built in Momatio's Asset Lab replace the plain shapes, and the ground tent has canvas with seams
+- On a phone, the truck shows its full finish while you are parked at camp, and on dirt roads dust builds up on the hood until the forecast's rain washes it off
+- On a phone, smoother edges along tree lines and ridges can be switched on by adding &aa=1 to the game's address. It stays off until it has been tried on real phones
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
