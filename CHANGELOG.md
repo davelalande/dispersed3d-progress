@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 16, 2026, afternoon: The game has a goal: a four-night trip in one forest, on limited gas and water
+
+- "Four nights" sits beside "Tonight's camp" on the welcome: four nights in the Lolo on a quarter tank (6.5 gallons) and 5 gallons of water. The trip is saved for a week, so it can be one long sitting or four evenings
+- The trip card has two lists. The trip's: four nights out, every fire put out with water, nothing left behind, and back to town with fuel. The overlander's: looked at camps you did not stay at, got out and looked on foot, shut the engine off and listened, held your site, three nights at the site you held, water from a creek, a cold dip with the soap 200 feet from the water, and left it better than you found it. Each row is checked or not; nothing is added up and nobody is ranked
+- On the fourth morning, Head for town drives the real road miles to the gas station in Seeley Lake. Run the tank dry on the way and the trip ends, and says how many road miles were left
+- Some fire rings hold cans and foil that somebody left. They are the game's, labeled as the game's, never a word about the real site; packing them out counts as leaving it better
+- The season is judged camp by camp from each camp's own record, and a trip is refused only when every camp in the forest is closed
+- On a phone the welcome's three buttons now fit the first screen, and on the Red screen the logbook's night squares and the REAL tags are red with black words
+
 ## October 16, 2026, early morning: The Weather Service's warnings for your camp, cold and wet nights, the fire that burned here, and gas back to town on real road miles
 
 - When the National Weather Service posts a warning for the spot, such as a Red Flag Warning, a Wind Advisory or a Flash Flood Watch, the game quotes it with its date and the office that posted it. On a Red Flag day you are offered "No fire tonight": your choice to make and to take back, kept in the logbook. The game never refuses a fire on its own
