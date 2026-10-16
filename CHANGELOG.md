@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 16, 2026, early morning: The Weather Service's warnings for your camp, cold and wet nights, the fire that burned here, and gas back to town on real road miles
+
+- When the National Weather Service posts a warning for the spot, such as a Red Flag Warning, a Wind Advisory or a Flash Flood Watch, the game quotes it with its date and the office that posted it. On a Red Flag day you are offered "No fire tonight": your choice to make and to take back, kept in the logbook. The game never refuses a fire on its own
+- Where the forecast's own grid cell sits well above or below the camp, one sentence says so, so a forecast low is read for what it is
+- Cold and wet nights from the forecast's own numbers: bring the water jugs in on a freezing night, crack the tent's vents when the dew point says the tent will be wet inside by morning, and park with the truck's tail to the wind
+- The fire that burned here: when a camp sits inside a wildfire perimeter in the National Interagency Fire Center's history, the camp card names the fire, its year and its acres, with the date the record was read. The drive row says how far the road climbs and its steepest mile, from USGS elevation
+- Gas back to town in road miles: the nearest gas station is found on OpenStreetMap and the road there is routed by the game itself, at the game's 13 mpg on pavement and 8 on dirt
+- Footsteps on what the record says is under you (gravel, forest duff or sand), the coaching line read aloud by a screen reader, and a game pad or Steam Deck drives, steers and looks
+
 ## October 15, 2026, evening: The real dusk, the Moon's real face, the Milky Way as photographed, and a day at camp
 
 - Dusk is now worked out by the game's own model of sunlight passing through the air, instead of a hand-picked table of colors: an orange band low over the real ridge, fading through lilac to blue after the sun goes down, and properly dark at night
