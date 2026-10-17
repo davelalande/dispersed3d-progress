@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 17, 2026, early morning: A clear windshield: nothing in the way while you drive
+
+- About a second and a half after the truck starts rolling, the screen clears. Left in the corner: Info, the speed (x1, x4, x12) and Stop on a Self Drive, and only Info when you drive by hand. A message that matters shows as one thin line; the game's teaching lines wait until you stop. Info brings everything back while you roll
+- Each night's note writes itself from what the game recorded, and you can change it; your words are kept as yours
+- Dave's own way at the creek: Dr. Bronner's lavender (skeeters don't like it), 200 feet from the water. One gallon of water a day is his number from his trips
+- Parked at camp with the engine off, at dusk or first light, a mule deer (an elk where elk live) may step to the edge of the clearing. It is the game's chance, said as the game's, not a sighting
+- A new line on the night card: how long the sun is off this camp behind its own ridges (USGS ground), and how long the woodpile lasts
+- Smoother edges on every phone, and fixes from a player who started cold: the clear windshield works after the first night too, old lines no longer pop up the next morning, and a fire that burned out on its own is never written up as put out with water
+
 ## October 16, 2026, afternoon: The game has a goal: a four-night trip in one forest, on limited gas and water
 
 - "Four nights" sits beside "Tonight's camp" on the welcome: four nights in the Lolo on a quarter tank (6.5 gallons) and 5 gallons of water. The trip is saved for a week, so it can be one long sitting or four evenings

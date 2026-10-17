@@ -32,14 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 16, 2026, afternoon: The game has a goal: a four-night trip in one forest, on limited gas and water**
+**October 17, 2026, early morning: A clear windshield: nothing in the way while you drive**
 
-- "Four nights" sits beside "Tonight's camp" on the welcome: four nights in the Lolo on a quarter tank (6.5 gallons) and 5 gallons of water. The trip is saved for a week, so it can be one long sitting or four evenings
-- The trip card has two lists. The trip's: four nights out, every fire put out with water, nothing left behind, and back to town with fuel. The overlander's: looked at camps you did not stay at, got out and looked on foot, shut the engine off and listened, held your site, three nights at the site you held, water from a creek, a cold dip with the soap 200 feet from the water, and left it better than you found it. Each row is checked or not; nothing is added up and nobody is ranked
-- On the fourth morning, Head for town drives the real road miles to the gas station in Seeley Lake. Run the tank dry on the way and the trip ends, and says how many road miles were left
-- Some fire rings hold cans and foil that somebody left. They are the game's, labeled as the game's, never a word about the real site; packing them out counts as leaving it better
-- The season is judged camp by camp from each camp's own record, and a trip is refused only when every camp in the forest is closed
-- On a phone the welcome's three buttons now fit the first screen, and on the Red screen the logbook's night squares and the REAL tags are red with black words
+- About a second and a half after the truck starts rolling, the screen clears. Left in the corner: Info, the speed (x1, x4, x12) and Stop on a Self Drive, and only Info when you drive by hand. A message that matters shows as one thin line; the game's teaching lines wait until you stop. Info brings everything back while you roll
+- Each night's note writes itself from what the game recorded, and you can change it; your words are kept as yours
+- Dave's own way at the creek: Dr. Bronner's lavender (skeeters don't like it), 200 feet from the water. One gallon of water a day is his number from his trips
+- Parked at camp with the engine off, at dusk or first light, a mule deer (an elk where elk live) may step to the edge of the clearing. It is the game's chance, said as the game's, not a sighting
+- A new line on the night card: how long the sun is off this camp behind its own ridges (USGS ground), and how long the woodpile lasts
+- Smoother edges on every phone, and fixes from a player who started cold: the clear windshield works after the first night too, old lines no longer pop up the next morning, and a fire that burned out on its own is never written up as put out with water
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
