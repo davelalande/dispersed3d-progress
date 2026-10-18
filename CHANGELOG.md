@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 18, 2026, midday: Lighter ground photos on phones, and a try-out of the enjoy-the-ride screen
+
+- On a phone that can show compressed pictures, the ground photographs now take about a quarter of the memory they did (about 21 MB instead of 78), so the game runs easier. Computers and older phones keep the regular photographs, and the Info card says which you have and why
+- A try-out of a calmer screen while you drive, from Dave's own idea: add ?ride=1 to the address. Camp names stay away until you ask for them, a small arrow with the miles points to your camp, a pull down from the top brings the clock, light, gas and water, and any line that pops up goes away by itself in a few seconds
+- For people building AI players: add ?ai=1 and an AI can take the driver's seat. Self Drive does the driving, the AI makes the slow calls (which camp, gas and water, push on or wait), and touching the wheel hands it straight back to you
+
 ## October 18, 2026, morning: The hood stays with the truck when you look around
 
 - Look around while you drive and the hood keeps pointing down the road, the way a real truck's does. Turn your head far to the side and it drops out of sight below the door and dash
