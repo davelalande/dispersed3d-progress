@@ -32,14 +32,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 17, 2026, late evening: The fire goes dead out before bed, and the game's lines take turns**
+**October 18, 2026, morning: The hood stays with the truck when you look around**
 
-- Settle in for the night with a fire lit or its coals still warm, and a card walks you through the Forest Service's steps first: drown it, stir it, feel for heat. You can still turn in and leave it burning, and the morning card says so honestly
-- The game's lines take turns: a teaching line that comes up while you roll waits until you stop, a line that is no longer true is dropped, and a line never pushes another off the screen
-- Every Self Drive starts with one line: how far, about how long, and whether you will get there in daylight or after dark
-- The water jug says when it runs low and when it is empty, once each, with the real ways to fill it. Filling the jug, or a run to town, clears the warning
-- Stay today is only on the morning card, and the evening buttons say what they do: Stay up and walk around camp, or Sit by the fire while the hours go by
-- The four-night trip ends on its own card and shows which night you are on. On phones, nothing covers the open More drawer and the trip card's first line clears the Close button
+- Look around while you drive and the hood keeps pointing down the road, the way a real truck's does. Turn your head far to the side and it drops out of sight below the door and dash
+- No more "The whole tile is now drawn at 3.2 m a step" popping up mid-drive. It was nothing you could act on, and the Info card still has the ground detail
+- Pressing "Let time run fast" a second time no longer freezes the game: the clock stops at the hour the fast run reached
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

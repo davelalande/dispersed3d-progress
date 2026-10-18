@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 18, 2026, morning: The hood stays with the truck when you look around
+
+- Look around while you drive and the hood keeps pointing down the road, the way a real truck's does. Turn your head far to the side and it drops out of sight below the door and dash
+- No more "The whole tile is now drawn at 3.2 m a step" popping up mid-drive. It was nothing you could act on, and the Info card still has the ground detail
+- Pressing "Let time run fast" a second time no longer freezes the game: the clock stops at the hour the fast run reached
+
 ## October 17, 2026, late evening: The fire goes dead out before bed, and the game's lines take turns
 
 - Settle in for the night with a fire lit or its coals still warm, and a card walks you through the Forest Service's steps first: drown it, stir it, feel for heat. You can still turn in and leave it burning, and the morning card says so honestly
