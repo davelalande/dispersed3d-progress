@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 17, 2026, late evening: The fire goes dead out before bed, and the game's lines take turns
+
+- Settle in for the night with a fire lit or its coals still warm, and a card walks you through the Forest Service's steps first: drown it, stir it, feel for heat. You can still turn in and leave it burning, and the morning card says so honestly
+- The game's lines take turns: a teaching line that comes up while you roll waits until you stop, a line that is no longer true is dropped, and a line never pushes another off the screen
+- Every Self Drive starts with one line: how far, about how long, and whether you will get there in daylight or after dark
+- The water jug says when it runs low and when it is empty, once each, with the real ways to fill it. Filling the jug, or a run to town, clears the warning
+- Stay today is only on the morning card, and the evening buttons say what they do: Stay up and walk around camp, or Sit by the fire while the hours go by
+- The four-night trip ends on its own card and shows which night you are on. On phones, nothing covers the open More drawer and the trip card's first line clears the Close button
+
 ## October 17, 2026, early morning: A clear windshield: nothing in the way while you drive
 
 - About a second and a half after the truck starts rolling, the screen clears. Left in the corner: Info, the speed (x1, x4, x12) and Stop on a Self Drive, and only Info when you drive by hand. A message that matters shows as one thin line; the game's teaching lines wait until you stop. Info brings everything back while you roll

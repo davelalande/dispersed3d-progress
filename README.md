@@ -32,14 +32,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 17, 2026, early morning: A clear windshield: nothing in the way while you drive**
+**October 17, 2026, late evening: The fire goes dead out before bed, and the game's lines take turns**
 
-- About a second and a half after the truck starts rolling, the screen clears. Left in the corner: Info, the speed (x1, x4, x12) and Stop on a Self Drive, and only Info when you drive by hand. A message that matters shows as one thin line; the game's teaching lines wait until you stop. Info brings everything back while you roll
-- Each night's note writes itself from what the game recorded, and you can change it; your words are kept as yours
-- Dave's own way at the creek: Dr. Bronner's lavender (skeeters don't like it), 200 feet from the water. One gallon of water a day is his number from his trips
-- Parked at camp with the engine off, at dusk or first light, a mule deer (an elk where elk live) may step to the edge of the clearing. It is the game's chance, said as the game's, not a sighting
-- A new line on the night card: how long the sun is off this camp behind its own ridges (USGS ground), and how long the woodpile lasts
-- Smoother edges on every phone, and fixes from a player who started cold: the clear windshield works after the first night too, old lines no longer pop up the next morning, and a fire that burned out on its own is never written up as put out with water
+- Settle in for the night with a fire lit or its coals still warm, and a card walks you through the Forest Service's steps first: drown it, stir it, feel for heat. You can still turn in and leave it burning, and the morning card says so honestly
+- The game's lines take turns: a teaching line that comes up while you roll waits until you stop, a line that is no longer true is dropped, and a line never pushes another off the screen
+- Every Self Drive starts with one line: how far, about how long, and whether you will get there in daylight or after dark
+- The water jug says when it runs low and when it is empty, once each, with the real ways to fill it. Filling the jug, or a run to town, clears the warning
+- Stay today is only on the morning card, and the evening buttons say what they do: Stay up and walk around camp, or Sit by the fire while the hours go by
+- The four-night trip ends on its own card and shows which night you are on. On phones, nothing covers the open More drawer and the trip card's first line clears the Close button
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
