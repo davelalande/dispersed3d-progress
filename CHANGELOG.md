@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 18, 2026, evening: The sound offer stays off the fire, and a reminder to stay on the mapped roads
+
+- Sitting by the fire, the offer to turn the camp sound on now always moves off the fire. On a slow phone it could land right on top of the flames and stay there
+- Stay on the mapped roads: the first time you park well off every mapped road and away from any camp, one line says so. Driving off the forest's vehicle map can earn a ticket, dry-looking ground can be a wetland, and the Road button points the way back. It is said once, never again
+- The trip card is fairer: a fire lit and put out on the same day counts for that night, and Head for town now checks the camp the same way driving away does: a fire still going is put out and camp packed up first, and a clean leave counts as packed up
+- Behind the scenes: more groundwork for AI players. It is not open yet
+
 ## October 18, 2026, midday: Lighter ground photos on phones, and a try-out of the enjoy-the-ride screen
 
 - On a phone that can show compressed pictures, the ground photographs now take about a quarter of the memory they did (about 21 MB instead of 78), so the game runs easier. Computers and older phones keep the regular photographs, and the Info card says which you have and why
