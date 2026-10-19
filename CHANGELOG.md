@@ -2,6 +2,18 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 19, 2026, afternoon: Fixes from an AI's playtest, and a lighter game for computers with no graphics card
+
+- An AI player played a four-night trip on Custer Gallatin overnight and wrote down everything that tripped it up; these are its fixes
+- Night chores show what is done: each line has a check box, a ticked line says "done", and the card says plainly that ticking a chore spends its minutes on the game clock, once
+- The morning reads like morning: the morning card is about last night's camp, with no advice about tonight's wind, and Real right now says "The sky now" by day and "Forecast for the coming night" from 6 AM to 6 PM
+- Headlights go off after a night's sleep, and if they are on in full daylight one line says how to turn them off
+- The road under the wheels has its real name: up Hyalite Canyon it said "Fowler Ln", a town street's name the street map carries along the Forest Service road. It now says Forest road 62
+- The map keeps camp names apart: on a phone it names up to five camps instead of one, never on top of each other or the truck, with your goal camp and the camps you slept at named first
+- Tonight's camp is a free camp whenever the forest has one, never a fee campground
+- A computer that draws the 3D without a graphics card now opens the lighter game phones already get: fewer trees and a smaller photograph. Help, Settings puts the full game back
+- A guard for the game clock: in that playtest it leapt three hours at the start of the trip. We could not make that happen again, so the clock now ignores a sudden jump in the computer's own clock, and we are watching for it
+
 ## October 19, 2026, morning: Camps off the road, on level ground
 
 - Camps are off the road now: every camp has a spot where you would really park, and a Self Drive rolls down a short two-track spur and stops there, instead of parking on the road beside it
