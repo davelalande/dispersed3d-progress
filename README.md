@@ -33,12 +33,12 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 19, 2026, early morning: The real wetlands on the map, and rain that sounds like where you are**
+**October 19, 2026, morning: Camps off the road, on level ground**
 
-- Real wetlands on the map: zoom in and the wetlands the U.S. Fish and Wildlife Service mapped from aerial photographs show hatched in blue-green, with a key that says whose map it is. Their edges are approximate, and ground that looks dry can still be one
-- The map zooms: Zoom in, Zoom out and Find me, down to about half a mile across. On a computer the mouse wheel zooms and a drag moves the map; on a phone, pinch
-- Rain by place: in the truck or the rooftop tent it is the downpour on the roof over you, with drips off the trees; out on foot it is the same rain, more open and a little softer. Light rain stays light
-- Behind the scenes: more for AI players, like seeing an AI's reasons as it plays and taking the wheel back from it. It is not open yet
+- Camps are off the road now: every camp has a spot where you would really park, and a Self Drive rolls down a short two-track spur and stops there, instead of parking on the road beside it
+- A dispersed camp keeps the spot its record gives when that is 80 feet or more off the road; one closer than that moves to about 100 feet off, on dry, open ground away from other roads
+- The spot is picked for level ground, scored the way the level card reads the truck's four wheels, so the card can usually help you level up
+- Developed campgrounds keep their own loop road, and camps far out in the desert stay exactly where the record has them
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
