@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 19, 2026, early morning: The real wetlands on the map, and rain that sounds like where you are
+
+- Real wetlands on the map: zoom in and the wetlands the U.S. Fish and Wildlife Service mapped from aerial photographs show hatched in blue-green, with a key that says whose map it is. Their edges are approximate, and ground that looks dry can still be one
+- The map zooms: Zoom in, Zoom out and Find me, down to about half a mile across. On a computer the mouse wheel zooms and a drag moves the map; on a phone, pinch
+- Rain by place: in the truck or the rooftop tent it is the downpour on the roof over you, with drips off the trees; out on foot it is the same rain, more open and a little softer. Light rain stays light
+- Behind the scenes: more for AI players, like seeing an AI's reasons as it plays and taking the wheel back from it. It is not open yet
+
 ## October 18, 2026, evening: The sound offer stays off the fire, and a reminder to stay on the mapped roads
 
 - Sitting by the fire, the offer to turn the camp sound on now always moves off the fire. On a slow phone it could land right on top of the flames and stay there

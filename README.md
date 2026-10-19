@@ -20,6 +20,7 @@ This is a game laid over real places, and the real places do most of the work. H
 | The photograph on the ground | USGS NAIP aerial imagery. The color of a place is the photograph's color |
 | The roads | The USGS road map, with the Forest Service's own road numbers, surfaces, maintenance levels and open dates where the agency records them |
 | The creeks | The USGS NHDPlus HR stream map, and the USGS stream gauge's newest reading where one sits on a camp's named water |
+| The wetlands on the map | The U.S. Fish and Wildlife Service's National Wetlands Inventory, mapped from aerial photographs. The edges are approximate |
 | Peak names | GNIS, the federal place-name record |
 | Tonight's weather and sky cover | The National Weather Service hourly forecast |
 | Smoke | NOAA's satellite smoke maps |
@@ -32,12 +33,12 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 18, 2026, evening: The sound offer stays off the fire, and a reminder to stay on the mapped roads**
+**October 19, 2026, early morning: The real wetlands on the map, and rain that sounds like where you are**
 
-- Sitting by the fire, the offer to turn the camp sound on now always moves off the fire. On a slow phone it could land right on top of the flames and stay there
-- Stay on the mapped roads: the first time you park well off every mapped road and away from any camp, one line says so. Driving off the forest's vehicle map can earn a ticket, dry-looking ground can be a wetland, and the Road button points the way back. It is said once, never again
-- The trip card is fairer: a fire lit and put out on the same day counts for that night, and Head for town now checks the camp the same way driving away does: a fire still going is put out and camp packed up first, and a clean leave counts as packed up
-- Behind the scenes: more groundwork for AI players. It is not open yet
+- Real wetlands on the map: zoom in and the wetlands the U.S. Fish and Wildlife Service mapped from aerial photographs show hatched in blue-green, with a key that says whose map it is. Their edges are approximate, and ground that looks dry can still be one
+- The map zooms: Zoom in, Zoom out and Find me, down to about half a mile across. On a computer the mouse wheel zooms and a drag moves the map; on a phone, pinch
+- Rain by place: in the truck or the rooftop tent it is the downpour on the roof over you, with drips off the trees; out on foot it is the same rain, more open and a little softer. Light rain stays light
+- Behind the scenes: more for AI players, like seeing an AI's reasons as it plays and taking the wheel back from it. It is not open yet
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
