@@ -33,16 +33,15 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 19, 2026, afternoon: Fixes from an AI's playtest, and a lighter game for computers with no graphics card**
+**October 19, 2026, night: Camp Cook: Dave's breakfast scramble in 3D, with every ingredient broken out**
 
-- An AI player played a four-night trip on Custer Gallatin overnight and wrote down everything that tripped it up; these are its fixes
-- Night chores show what is done: each line has a check box, a ticked line says "done", and the card says plainly that ticking a chore spends its minutes on the game clock, once
-- The morning reads like morning: the morning card is about last night's camp, with no advice about tonight's wind, and Real right now says "The sky now" by day and "Forecast for the coming night" from 6 AM to 6 PM
-- Headlights go off after a night's sleep, and if they are on in full daylight one line says how to turn them off
-- The road under the wheels has its real name: up Hyalite Canyon it said "Fowler Ln", a town street's name the street map carries along the Forest Service road. It now says Forest road 62
-- The map keeps camp names apart: on a phone it names up to five camps instead of one, never on top of each other or the truck, with your goal camp and the camps you slept at named first
-- Tonight's camp is a free camp whenever the forest has one, never a fee campground
-- A computer that draws the 3D without a graphics card now opens the lighter game phones already get: fewer trees and a smaller photograph. Help, Settings puts the full game back
+- Camp Cook, a recipe you can watch: Dave's camp breakfast scramble (bacon, hash browns, the week's bag of peppers, onion and jalapeño, then 3 eggs) cooks step by step on a one-burner stove, with what each step looks like when it is done
+- Watch plays the whole recipe in about a minute; Cook along counts down each step's real minutes while you cook
+- Broken out: the food lifts out of the pan like an exploded drawing, and every ingredient is labeled with one fact from USDA FoodData Central, with a link to its source
+- What's in the pan: protein, calories, vitamin C, fiber and sodium add up as each ingredient goes in (about 29 g of protein by the end; the amounts are estimates and say so)
+- In the game: Camp recipes in the phone's drawer and a Recipe link on the night's Cook line, only when the truck is stopped. The game pauses underneath and comes back exactly as it was
+- On davelalande.com: the same recipe as a field note, Camp breakfast scramble, in the site's own colors
+- It works with no connection in a forest you kept for offline play, and everything in the pan is drawn in code, so it stays light on a phone
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
