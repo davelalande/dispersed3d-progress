@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 20, 2026, early morning: Camp Cook, sharper: real light and shadows, and food that looks like Dave's pan
+
+- Camp Cook is lit for real: a warm morning sun and soft sky light on every surface, a shine on the peppers and the nonstick pan, and shadows the food casts on the pan and on itself
+- The food looks like Dave's own pan: thin curved pieces of bell pepper, narrow curled bacon that browns as it cooks, golden shredded hash browns, onion slivers, jalapeño rings and soft egg curds
+- A gray granite pan with white flecks, a rounded blue camp stove with a wire grate, and a wood table with real grain
+- Sharper on a computer: the scene is drawn at twice the pixels, and it steps itself down if a computer can't keep up
+- A level camp stays where the record has it: three camps that sit near their road but are level (Moser Road 6213, Auggie Cut-Off 04 and Crystal Hill) are back on their recorded spots instead of being moved 100 feet off
+
 ## October 19, 2026, late night: Camp Cook points to its recipe page, and keeping a forest for offline play survives a dropped connection
 
 - The recipe in the game now links to the same recipe on davelalande.com, and the recipe page there links back to the game

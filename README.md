@@ -33,10 +33,13 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 19, 2026, late night: Camp Cook points to its recipe page, and keeping a forest for offline play survives a dropped connection**
+**October 20, 2026, early morning: Camp Cook, sharper: real light and shadows, and food that looks like Dave's pan**
 
-- The recipe in the game now links to the same recipe on davelalande.com, and the recipe page there links back to the game
-- Keeping a forest for offline play no longer gives up on one dropped connection: a file that drops before any answer is asked for once more, so a weak signal does not throw the whole forest away
+- Camp Cook is lit for real: a warm morning sun and soft sky light on every surface, a shine on the peppers and the nonstick pan, and shadows the food casts on the pan and on itself
+- The food looks like Dave's own pan: thin curved pieces of bell pepper, narrow curled bacon that browns as it cooks, golden shredded hash browns, onion slivers, jalapeño rings and soft egg curds
+- A gray granite pan with white flecks, a rounded blue camp stove with a wire grate, and a wood table with real grain
+- Sharper on a computer: the scene is drawn at twice the pixels, and it steps itself down if a computer can't keep up
+- A level camp stays where the record has it: three camps that sit near their road but are level (Moser Road 6213, Auggie Cut-Off 04 and Crystal Hill) are back on their recorded spots instead of being moved 100 feet off
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
