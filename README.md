@@ -33,15 +33,10 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 19, 2026, night: Camp Cook: Dave's breakfast scramble in 3D, with every ingredient broken out**
+**October 19, 2026, late night: Camp Cook points to its recipe page, and keeping a forest for offline play survives a dropped connection**
 
-- Camp Cook, a recipe you can watch: Dave's camp breakfast scramble (bacon, hash browns, the week's bag of peppers, onion and jalapeño, then 3 eggs) cooks step by step on a one-burner stove, with what each step looks like when it is done
-- Watch plays the whole recipe in about a minute; Cook along counts down each step's real minutes while you cook
-- Broken out: the food lifts out of the pan like an exploded drawing, and every ingredient is labeled with one fact from USDA FoodData Central, with a link to its source
-- What's in the pan: protein, calories, vitamin C, fiber and sodium add up as each ingredient goes in (about 29 g of protein by the end; the amounts are estimates and say so)
-- In the game: Camp recipes in the phone's drawer and a Recipe link on the night's Cook line, only when the truck is stopped. The game pauses underneath and comes back exactly as it was
-- On davelalande.com: the same recipe as a field note, Camp breakfast scramble, in the site's own colors
-- It works with no connection in a forest you kept for offline play, and everything in the pan is drawn in code, so it stays light on a phone
+- The recipe in the game now links to the same recipe on davelalande.com, and the recipe page there links back to the game
+- Keeping a forest for offline play no longer gives up on one dropped connection: a file that drops before any answer is asked for once more, so a weak signal does not throw the whole forest away
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

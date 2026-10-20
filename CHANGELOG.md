@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 19, 2026, late night: Camp Cook points to its recipe page, and keeping a forest for offline play survives a dropped connection
+
+- The recipe in the game now links to the same recipe on davelalande.com, and the recipe page there links back to the game
+- Keeping a forest for offline play no longer gives up on one dropped connection: a file that drops before any answer is asked for once more, so a weak signal does not throw the whole forest away
+
 ## October 19, 2026, night: Camp Cook: Dave's breakfast scramble in 3D, with every ingredient broken out
 
 - Camp Cook, a recipe you can watch: Dave's camp breakfast scramble (bacon, hash browns, the week's bag of peppers, onion and jalapeño, then 3 eggs) cooks step by step on a one-burner stove, with what each step looks like when it is done
