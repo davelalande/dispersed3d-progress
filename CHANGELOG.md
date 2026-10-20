@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 20, 2026, evening: A clear windshield while you drive, and map squares like a paper map
+
+- Enjoy the ride is now the game's way for everyone: once you're rolling the screen clears, and a small arrow with the miles points to your camp
+- The readings drop in when you ask: drag down from the top (or press I) and the clock, light left, fuel, water and miles to go show for a few seconds, then put themselves away
+- Camp names wait until you ask for them: press Names (N on a computer)
+- The map has squares like a paper map, letters across and numbers down, and each camp's label carries its square
+- On a phone the letters and numbers sit outside the map's edge, so the map itself stays clear
+
 ## October 20, 2026, morning: Camp Cook, third pass, and a fairer trip card
 
 - Camp Cook's pan looks more like the real thing: chunkier bell pepper pieces with charred edges, thinner and paler hash browns, whiter fat on the raw bacon and redder bacon once it cooks

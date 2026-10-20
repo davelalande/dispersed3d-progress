@@ -33,13 +33,13 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 20, 2026, morning: Camp Cook, third pass, and a fairer trip card**
+**October 20, 2026, evening: A clear windshield while you drive, and map squares like a paper map**
 
-- Camp Cook's pan looks more like the real thing: chunkier bell pepper pieces with charred edges, thinner and paler hash browns, whiter fat on the raw bacon and redder bacon once it cooks
-- Broken out frames only the food that is in the pan at that step, so a few heaps fill the view instead of floating in a big empty space
-- "Nothing left behind" is fair to a base camp: leave the camp clean on your last morning there and every night you spent at it counts as packed
-- Filtering water at a camp's own creek now says plainly that it does not count toward "Water from a creek", which is for a creek the stream map shows running all year
-- The same update is on davelalande.com's Camp breakfast scramble field note
+- Enjoy the ride is now the game's way for everyone: once you're rolling the screen clears, and a small arrow with the miles points to your camp
+- The readings drop in when you ask: drag down from the top (or press I) and the clock, light left, fuel, water and miles to go show for a few seconds, then put themselves away
+- Camp names wait until you ask for them: press Names (N on a computer)
+- The map has squares like a paper map, letters across and numbers down, and each camp's label carries its square
+- On a phone the letters and numbers sit outside the map's edge, so the map itself stays clear
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
