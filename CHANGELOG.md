@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 20, 2026, morning: Camp Cook, third pass, and a fairer trip card
+
+- Camp Cook's pan looks more like the real thing: chunkier bell pepper pieces with charred edges, thinner and paler hash browns, whiter fat on the raw bacon and redder bacon once it cooks
+- Broken out frames only the food that is in the pan at that step, so a few heaps fill the view instead of floating in a big empty space
+- "Nothing left behind" is fair to a base camp: leave the camp clean on your last morning there and every night you spent at it counts as packed
+- Filtering water at a camp's own creek now says plainly that it does not count toward "Water from a creek", which is for a creek the stream map shows running all year
+- The same update is on davelalande.com's Camp breakfast scramble field note
+
 ## October 20, 2026, early morning: Camp Cook, sharper: real light and shadows, and food that looks like Dave's pan
 
 - Camp Cook is lit for real: a warm morning sun and soft sky light on every surface, a shine on the peppers and the nonstick pan, and shadows the food casts on the pan and on itself
