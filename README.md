@@ -33,11 +33,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 21, 2026, early morning: A driver's seat that feels like one**
+**October 21, 2026, afternoon: The inside of the cab**
 
-- The hood stays bolted to the truck and level, whichever way you look
-- From the driver's seat you can turn your head to either side window and nod a little, but not stare at the ground; on foot you can still look anywhere, all the way around and down at your feet
-- Moving the mouse to a button or a panel no longer swings the view on the way there: the view turns when the cursor rests near an edge
+- From the driver's seat you now sit inside the truck: a dash with a lip, thin windshield pillars, doors with a window ledge and an armrest, and the roof edge
+- Look out the passenger window and you see the window, the door and the dash, the way you would in a real truck, instead of a flat edge of hood
+- Dead ahead the view is unchanged, and at dusk the cab goes dark with the light outside
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

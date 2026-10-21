@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 21, 2026, afternoon: The inside of the cab
+
+- From the driver's seat you now sit inside the truck: a dash with a lip, thin windshield pillars, doors with a window ledge and an armrest, and the roof edge
+- Look out the passenger window and you see the window, the door and the dash, the way you would in a real truck, instead of a flat edge of hood
+- Dead ahead the view is unchanged, and at dusk the cab goes dark with the light outside
+
 ## October 21, 2026, early morning: A driver's seat that feels like one
 
 - The hood stays bolted to the truck and level, whichever way you look
