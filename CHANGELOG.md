@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 21, 2026, early morning: A driver's seat that feels like one
+
+- The hood stays bolted to the truck and level, whichever way you look
+- From the driver's seat you can turn your head to either side window and nod a little, but not stare at the ground; on foot you can still look anywhere, all the way around and down at your feet
+- Moving the mouse to a button or a panel no longer swings the view on the way there: the view turns when the cursor rests near an edge
+
 ## October 20, 2026, evening: A clear windshield while you drive, and map squares like a paper map
 
 - Enjoy the ride is now the game's way for everyone: once you're rolling the screen clears, and a small arrow with the miles points to your camp

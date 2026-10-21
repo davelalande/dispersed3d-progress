@@ -33,14 +33,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 20, 2026, evening: A clear windshield while you drive, and map squares like a paper map**
+**October 21, 2026, early morning: A driver's seat that feels like one**
 
-- Enjoy the ride is now the game's way for everyone: once you're rolling the screen clears, and a small arrow with the miles points to your camp
-- The readings drop in when you ask: drag down from the top (or press I) and the clock, light left, fuel, water and miles to go show for a few seconds, then put themselves away
-- Camp names wait until you ask for them: press Names (N on a computer)
-- The map has squares like a paper map, letters across and numbers down, and each camp's label carries its square
-- On a phone the letters and numbers sit outside the map's edge, so the map itself stays clear
-- The title's Start button now says Play, which is what it does
+- The hood stays bolted to the truck and level, whichever way you look
+- From the driver's seat you can turn your head to either side window and nod a little, but not stare at the ground; on foot you can still look anywhere, all the way around and down at your feet
+- Moving the mouse to a button or a panel no longer swings the view on the way there: the view turns when the cursor rests near an edge
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
