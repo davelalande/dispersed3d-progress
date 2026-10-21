@@ -40,6 +40,7 @@ This is a game laid over real places, and the real places do most of the work. H
 - Camp names wait until you ask for them: press Names (N on a computer)
 - The map has squares like a paper map, letters across and numbers down, and each camp's label carries its square
 - On a phone the letters and numbers sit outside the map's edge, so the map itself stays clear
+- The title's Start button now says Play, which is what it does
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 

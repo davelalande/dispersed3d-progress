@@ -9,6 +9,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - Camp names wait until you ask for them: press Names (N on a computer)
 - The map has squares like a paper map, letters across and numbers down, and each camp's label carries its square
 - On a phone the letters and numbers sit outside the map's edge, so the map itself stays clear
+- The title's Start button now says Play, which is what it does
 
 ## October 20, 2026, morning: Camp Cook, third pass, and a fairer trip card
 
