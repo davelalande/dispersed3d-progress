@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 22, 2026, evening: Dave's rig
+
+- Stopped in the forest, More (the drawer on a phone) now has **Dave's rig**: the maker's own 2020 Tacoma TRD Pro, drawn by hand so you can turn it all the way around
+- Pop the camper's tent, open its wings and put the sun on its panels to watch the power run to the fridge
+- Drive it, or shift into 4 Low and lock the rear differential
+- Break it out two ways: the factory parts from the V6 back to the rear axle, or the overland gear pulled away from the truck, every part named
+- The game waits while it's open
+
 ## October 22, 2026, noon: A cab drawn from a real truck
 
 - The inside of the cab is redone from photos of Dave's own Tacoma: a dusty charcoal dash with a defroster grille, the gauge hood and the top of the wheel, the center stack, wide windshield pillars, the headliner with its map lights, and matching doors with armrests and window switches
