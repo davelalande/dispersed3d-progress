@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 22, 2026, noon: A cab drawn from a real truck
+
+- The inside of the cab is redone from photos of Dave's own Tacoma: a dusty charcoal dash with a defroster grille, the gauge hood and the top of the wheel, the center stack, wide windshield pillars, the headliner with its map lights, and matching doors with armrests and window switches
+- A folded paper road map and binoculars ride on the passenger seat
+- Dead ahead the road stays clear, and at night the cab goes dark with the light outside
+- Save the dawn leaves the cab out of your clip, so the sky stays clear
+
 ## October 22, 2026, morning: The run to town
 
 - On a four-night trip, Go to town and back opens a list you tick: gas, water, groceries, dump the garbage, and a meal or a coffee, each with its own minutes
