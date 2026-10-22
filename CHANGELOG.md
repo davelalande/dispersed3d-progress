@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 22, 2026, morning: The run to town
+
+- On a four-night trip, Go to town and back opens a list you tick: gas, water, groceries, dump the garbage, and a meal or a coffee, each with its own minutes
+- Before you leave, it adds up the drive and the errands and says when you'd be back, and warns you in amber if that's after dark
+- You start with three days of food. Each night uses one, and groceries fill it back up
+- Every night makes a bag of garbage, and town is the only place it goes. The trip card has a new row: Packed out your garbage
+- Gravel and dirt roads burn more gas than pavement, so crawling to a far camp costs you
+- On a phone, the pulled-up drawer fits on the screen again with nothing to scroll
+
 ## October 22, 2026, overnight: Before you settle in
 
 - While you're stopped, one line under the clock shows the trip so far: which night of four, and the gas and water left
