@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 22, 2026, overnight: Before you settle in
+
+- While you're stopped, one line under the clock shows the trip so far: which night of four, and the gas and water left
+- Settling in before the tent is up and the food is stowed now asks first, once a night
+- The night card opens on Before you settle in and the chores, with the camp's record and rules below
+- Help opens on a five-line Quick start in the game's own button names
+- After four nights, one picture of your trip card with the gas and water left, to save or share
+- Where a forest posts a real food order, the morning card names it
+- The level card is called Level the rig, the morning says Morning after night 1 of 4, and the fourth morning warns before packing up ends the trip
+
 ## October 21, 2026, afternoon: The inside of the cab
 
 - From the driver's seat you now sit inside the truck: a dash with a lip, thin windshield pillars, doors with a window ledge and an armrest, and the roof edge
