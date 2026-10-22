@@ -10,6 +10,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - Every night makes a bag of garbage, and town is the only place it goes. The trip card has a new row: Packed out your garbage
 - Gravel and dirt roads burn more gas than pavement, so crawling to a far camp costs you
 - On a phone, the pulled-up drawer fits on the screen again with nothing to scroll
+- Starting over is clearer: a new game now opens with "A fresh start" instead of "Welcome back", and Title in the middle of a game offers Start a new game. Your last game waits under Continue
 
 ## October 22, 2026, overnight: Before you settle in
 
