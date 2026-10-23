@@ -10,6 +10,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - A desert wash is called what it is: water the national map marks as running only part of the year says so on every walk, filter and dip, and in the desert it's a dry wash most days
 - The morning card has a new line, Water and gas: what tonight and a fire will take from the jug, how far the creek is, how far the gas goes, and how far town is
 - At some camps somebody left cans and foil in the fire ring. Now you can see them, and Pack out what somebody left clears them away
+- When another party has the camp you were headed for, you now see it: their rig on the pad, tent up, and somebody gives you a slow wave as you come close
 - Cook says what you made
 - Dave's rig opens a little lighter: its drawing loads only when you open it
 
