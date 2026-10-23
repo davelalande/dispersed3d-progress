@@ -12,6 +12,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - The rear door handles moved to the back edge of the rear doors, where they really are
 - The winch hidden in the front bumper shows through the lower opening, with its fairlead and hook
 - The Dometic fridge in the back seat is drawn at its real size
+- It's a 4WD truck, and now it says so: Drive shifts between 2H, 4 High and 4 Low with the rear locker, and you can watch the front shaft start turning
 
 ## October 22, 2026, evening: Dave's rig
 
