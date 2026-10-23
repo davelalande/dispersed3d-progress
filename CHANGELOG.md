@@ -8,6 +8,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - Pop the camper's tent, open its wings and put the sun on its panels to watch the power run to the fridge
 - Drive it, or shift into 4 Low and lock the rear differential
 - Break it out two ways: the factory parts from the V6 back to the rear axle, or the overland gear pulled away from the truck, every part named
+- Later that evening: with the gear broken out, the batteries' label points at the nearer battery from any side, and the sun's ray reaches the panels without crossing the ladder
 - The game waits while it's open
 
 ## October 22, 2026, noon: A cab drawn from a real truck
