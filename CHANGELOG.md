@@ -2,6 +2,10 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 5:55 PM: The hand-wash jug joins Dave's rig
+
+- Dave's rig (More, then Dave's rig) now shows the 2-gallon hand-wash jug with its spigot and the soap beside it, under Break out with the other overland add-ons. Dave carries it to wash his hands at camp and has never gotten sick in the backcountry
+
 ## October 23, 2026, 4:33 PM: Town fills the roof tank too
 
 - When you get water in town, the roof shower tank fills along with the jug, the way Dave does it. The town list's water line shows both
