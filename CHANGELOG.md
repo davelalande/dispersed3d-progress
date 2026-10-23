@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 6:21 PM: Wash your hands at camp
+
+- At a made camp, set up the hand-wash station: the 2-gallon jug and the soap go on the camp table. Then Wash your hands appears, about a quart a wash. The station is camp gear, so pack it up before you drive on
+- A new habit on the trip card: Washed your hands at camp every night. Dave carries this jug and has never gotten sick in the backcountry
+- The hand-wash jug is its own water, apart from the drinking jug and the roof shower tank, and a town run with water fills it too
+
 ## October 23, 2026, 5:55 PM: The hand-wash jug joins Dave's rig
 
 - Dave's rig (More, then Dave's rig) now shows the 2-gallon hand-wash jug with its spigot and the soap beside it, under Break out with the other overland add-ons. Dave carries it to wash his hands at camp and has never gotten sick in the backcountry
