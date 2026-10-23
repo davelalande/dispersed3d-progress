@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 7:44 AM: The sun over your ridge, and the creek in real numbers
+
+- The morning card says when the sun cleared your camp's own ridge and toward which named summit, and how late that was against a flat horizon's sunrise. The ridge comes from the elevation map and the summit's name from the federal place-name record
+- Where the USGS has a stream gauge on your camp's creek, the walk to the water, the filter and the dip quote its real flow and height, how far away the gauge is, and how long ago it was read
+
 ## October 23, 2026, 6:49 AM: A hot shower, and a walk from every camp
 
 - On a sunny afternoon at camp, take a hot shower off the roof tank: 2 gallons and 10 minutes. The game won't let you if the jug couldn't then cover tonight and putting a fire out, and it reminds you to carry the soapy water at least 200 feet from the creek
