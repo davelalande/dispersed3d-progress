@@ -2,6 +2,17 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, after midnight: Dave's rig, fixed from his photos
+
+<img src="media/daves-rig.jpg" alt="Dave's rig with the camper open: the tent rises at the back, solar panels on the lid, a traction board and the shower on the cab rack" width="100%">
+
+- The camper's tent now opens the way Dave's does: hinged at the front, rising at the back over the tailgate
+- The camper reaches forward over the cab roof. That's what makes the bed long enough for an adult to sleep in
+- On the cab's rack, front to back: one traction board turned across the rack (Dave stacks the pair), the 4-gallon shower, then the camper
+- The rear door handles moved to the back edge of the rear doors, where they really are
+- The winch hidden in the front bumper shows through the lower opening, with its fairlead and hook
+- The Dometic fridge in the back seat is drawn at its real size
+
 ## October 22, 2026, evening: Dave's rig
 
 - Stopped in the forest, More (the drawer on a phone) now has **Dave's rig**: the maker's own 2020 Tacoma TRD Pro, drawn by hand so you can turn it all the way around
