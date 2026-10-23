@@ -2,6 +2,10 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 4:33 PM: Town fills the roof tank too
+
+- When you get water in town, the roof shower tank fills along with the jug, the way Dave does it. The town list's water line shows both
+
 ## October 23, 2026, 3:47 PM: The shower has its own water
 
 - The hot shower now draws from the 4-gallon tank on the roof rack, 2 gallons a shower, the same as on Dave's rig. Your drinking water stays in the jug, and a trip gets two hot showers before the roof tank is empty
