@@ -2,6 +2,19 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 6:49 AM: A hot shower, and a walk from every camp
+
+- On a sunny afternoon at camp, take a hot shower off the roof tank: 2 gallons and 10 minutes. The game won't let you if the jug couldn't then cover tonight and putting a fire out, and it reminds you to carry the soapy water at least 200 feet from the creek
+- Filtering water at the creek now fills your jug
+- Every walk to the same water takes the same minutes, worked out from the distance at a walking pace
+- Once you've packed the cans and foil out of a fire ring, it stays clean for the rest of your trip
+- The short loop on foot, once offered only at trailhead camps, is now offered at every camp by day where the ground allows one. The path is the game's, not a mapped trail, and the turnaround names a real summit you can see
+- The camp dashboard's buttons use the same names as the evening card: Start a fire, Level the rig, Settle in for the night
+- The tent you leave to hold your site is now a small A-frame tent
+- The lines about gas name the station the route really goes to
+- When the forecast on file is out of date, the game says which days it covers instead of saying nothing
+- The morning reads the same wherever you stand: Morning after night 1 of 4
+
 ## October 23, 2026, morning: The rack load rides on your truck
 
 - The truck you drive now carries the load from Dave's photos on its cab rack: a tan traction board across the front, then the flat black shower tank, then the camper
