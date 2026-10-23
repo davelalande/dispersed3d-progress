@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 10:48 AM: REAL says where it comes from, and the road to town
+
+- Tap a REAL badge and it says, in one line, which public source that fact comes from, and opens that source's entry on the What is real page
+- Five words explain themselves on a tap: dead out, dispersed, MVUM, Red Flag Warning and stay limit
+- Going to town rides the real road out of camp toward the pump for a few seconds, with its miles and gallons. Tap to skip it
+- The morning card says what you slept on: how far off level the truck sat, and how far away the level spot was
+- In the desert, a dry wash no longer fills your jug
+
 ## October 23, 2026, 7:44 AM: The sun over your ridge, and the creek in real numbers
 
 - The morning card says when the sun cleared your camp's own ridge and toward which named summit, and how late that was against a flat horizon's sunrise. The ridge comes from the elevation map and the summit's name from the federal place-name record
