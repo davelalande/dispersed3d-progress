@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, morning: The rack load rides on your truck
+
+- The truck you drive now carries the load from Dave's photos on its cab rack: a tan traction board across the front, then the flat black shower tank, then the camper
+- The first-visit welcome on a phone fits the screen without scrolling
+
 ## October 23, 2026, early morning: A better night at camp
 
 - The evening card opens with three big doors: Settle in for the night, Stay up and walk around camp, and Sit by the fire. The rest folds under More tonight
