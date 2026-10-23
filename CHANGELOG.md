@@ -2,6 +2,17 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, early morning: A better night at camp
+
+- The evening card opens with three big doors: Settle in for the night, Stay up and walk around camp, and Sit by the fire. The rest folds under More tonight
+- On a night with no fire, whether it's banned or you just didn't light one, you can Sit out under the stars: the lantern on the table, the sky turning, the stars and the space station rising, until you get up or the sky goes gray
+- Step out of the rig at a camp and the game tells you, once, what you'd notice on foot: how much the ground slopes where the camp sits, by the USGS lidar, and the water nearby and how often it runs
+- A desert wash is called what it is: water the national map marks as running only part of the year says so on every walk, filter and dip, and in the desert it's a dry wash most days
+- The morning card has a new line, Water and gas: what tonight and a fire will take from the jug, how far the creek is, how far the gas goes, and how far town is
+- At some camps somebody left cans and foil in the fire ring. Now you can see them, and Pack out what somebody left clears them away
+- Cook says what you made
+- Dave's rig opens a little lighter: its drawing loads only when you open it
+
 ## October 23, 2026, after midnight: Dave's rig, fixed from his photos
 
 <img src="media/daves-rig.jpg" alt="Dave's rig with the camper open: the tent rises at the back, solar panels on the lid, a traction board and the shower on the cab rack" width="100%">
