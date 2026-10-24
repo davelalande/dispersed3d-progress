@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 24, 2026, 12:58 AM: Your rig on the start screen
+
+- The start screen shows your rig: a picture of the truck with its overland gear pulled apart and named, and See your rig opens the drawing you can turn
+- On the start screen the tent pick now reads Your tent
+
 ## October 24, 2026, 12:06 AM: Your rig, and an easy way back
 
 - Dave's rig is now Your rig, ready for more vehicles later
