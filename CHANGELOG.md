@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 24, 2026, 6:06 PM: The desert week, a new start picture, and no brand names
+
+- This week's four-night trip is near Quartzsite, Arizona, on Bureau of Land Management land: the Montana forests had rain and snow in Monday's forecast, and we never send you camping in snow
+- On that trip the town pump fills 10 gallons, so the drive home and the back half of the week matter
+- The start picture is shot from the truck's other side, with the fire beside its sign instead of in front of it, on a computer and on a phone
+- The overland gear on your rig is named by what it is, not by brand: pop-up camper shell, 12 V fridge/freezer, lithium batteries, battery monitor
+- A first look at a second rig, an army-green 4x4 van, as a drawing you can turn and pull apart: [momatio.com/dispersed3d/rig/van/](https://momatio.com/dispersed3d/rig/van/)
+
 ## October 24, 2026, 12:58 AM: Your rig on the start screen
 
 - The start screen shows your rig: a picture of the truck with its overland gear pulled apart and named, and See your rig opens the drawing you can turn
