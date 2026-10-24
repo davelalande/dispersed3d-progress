@@ -2,6 +2,10 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 10:48 PM: Dave's rig on every trip
+
+- Dave's rig, the drawing of his truck and its gear, now opens on a challenge trip too (More, then Dave's rig, while the truck is stopped), not only in free play. The clock waits while it is open
+
 ## October 23, 2026, 9:06 PM: The truck drives smoothly
 
 - Steering eases in like a wheel and comes back to center when you let go, instead of snapping to a full turn the moment you press a key. At road speed a full turn is gentler, and a quick tap is a small correction
