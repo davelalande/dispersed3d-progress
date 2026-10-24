@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 23, 2026, 9:06 PM: The truck drives smoothly
+
+- Steering eases in like a wheel and comes back to center when you let go, instead of snapping to a full turn the moment you press a key. At road speed a full turn is gentler, and a quick tap is a small correction
+- The truck no longer turns while standing still, and backing up steers the way a real truck does
+- Leaving the road slows you smoothly instead of all at once, and a slope off road no longer drops you to a crawl
+- Letting go of the gas coasts gently, and the brake is firmer than coasting
+- On a phone, the stick is proportional: a light push drives slowly
+- Mouse turns ease out instead of stopping dead
+
 ## October 23, 2026, 6:21 PM: Wash your hands at camp
 
 - At a made camp, set up the hand-wash station: the 2-gallon jug and the soap go on the camp table. Then Wash your hands appears, about a quart a wash. The station is camp gear, so pack it up before you drive on
