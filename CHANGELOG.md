@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 24, 2026, 12:06 AM: Your rig, and an easy way back
+
+- Dave's rig is now Your rig, ready for more vehicles later
+- The drawing has a clear Back to the game button at the top, and your browser's Back button closes the drawing and keeps you in your trip
+
 ## October 23, 2026, 10:48 PM: Dave's rig on every trip
 
 - Dave's rig, the drawing of his truck and its gear, now opens on a challenge trip too (More, then Dave's rig, while the truck is stopped), not only in free play. The clock waits while it is open
