@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 1:58 AM: Crisp rig drawings
+
+- The pulled-apart drawings of the Tacoma and the van have clean lines and big part names, and on a phone the parts are numbered with a list underneath
+- The drawings no longer have the color and hand-drawn wobble controls
+
 ## October 24, 2026, 11:08 PM: The van talks like a van
 
 - In the van, the game says water tank, awning and "into the van", and you leave a marker to hold a site; the Tacoma's words are unchanged
