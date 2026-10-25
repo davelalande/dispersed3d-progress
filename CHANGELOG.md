@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 2:01 PM: A real cab, and one press for your Grok Bot
+
+- The inside of the truck and the van is rebuilt: molded plastic pillars and doors with a satin finish, a grained and dusty dash, chrome door handles, silver vent rings and stitched seats, lit by the daylight through the windows
+- The view from the driver's seat is the same as before; only the finish changed
+- On a phone the new cab uses about 3 MB of graphics memory
+- On this week's challenge page, the first button is **Have your Grok Bot play**: one press starts the trip, opens the Grok Bot's card and copies its message, and the button turns green and says Copied
+- With a saved game, the start button says **New game**, and says the saved game is replaced once you drive or walk in the new one
+
 ## October 25, 2026, 1:58 AM: Crisp rig drawings
 
 - The pulled-apart drawings of the Tacoma and the van have clean lines and big part names, and on a phone the parts are numbered with a list underneath

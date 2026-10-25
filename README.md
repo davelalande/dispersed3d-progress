@@ -2,7 +2,7 @@
 
 # Dispersed 3D
 
-**A free 3D overlanding game on real public land.** Drive the forest roads, pick a camp, and light a fire under tonight's real sky. It plays in your browser, on a phone or a computer.
+**A free overland AI/human adventure game and dispersed camping simulation on real public land.** Drive the forest roads, pick a camp, and light a fire under tonight's real sky, on your own or with your AI. It plays in your browser, on a phone or a computer.
 
 <h2 align="center"><a href="https://momatio.com/dispersed3d/">Play it free</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://momatio.com/dispersed3d/try">Try the preview</a></h2>
 
