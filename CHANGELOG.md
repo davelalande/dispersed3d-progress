@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 2:49 PM: A real campfire
+
+- The campfire's flames are a real fire: simulated once on our own computer with Blender's fire solver and filmed, then played back in the game
+- The flames have soft orange-yellow bodies, red edges and a bright core, and they flare up when you add a log
+- On a phone the fire uses about 2 MB of graphics memory, and only once you light it
+
 ## October 25, 2026, 2:01 PM: A real cab, and one press for your Grok Bot
 
 - The inside of the truck and the van is rebuilt: molded plastic pillars and doors with a satin finish, a grained and dusty dash, chrome door handles, silver vent rings and stitched seats, lit by the daylight through the windows
