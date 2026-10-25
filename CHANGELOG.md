@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 24, 2026, 11:08 PM: The van talks like a van
+
+- In the van, the game says water tank, awning and "into the van", and you leave a marker to hold a site; the Tacoma's words are unchanged
+- Driving away from a camp you made now warns that it closes the camp, and to leave something to hold the site first
+- Distances are rounded, and the forecast line says the day it was issued
+- The soap in your rig has no brand name
+
 ## October 24, 2026, 8:30 PM: Choose your rig, the army-green van
 
 - On the start screen, choose your rig: the Tacoma, or the army-green 4x4 van ([momatio.com/dispersed3d/?rig=van](https://momatio.com/dispersed3d/?rig=van))
