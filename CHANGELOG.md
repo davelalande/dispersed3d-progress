@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 24, 2026, 8:30 PM: Choose your rig, the army-green van
+
+- On the start screen, choose your rig: the Tacoma, or the army-green 4x4 van ([momatio.com/dispersed3d/?rig=van](https://momatio.com/dispersed3d/?rig=van))
+- The van has a bed inside instead of a tent: at camp you put the awning out and set the leveling blocks, about 3 minutes each way
+- The van carries 24.5 gallons of diesel and 30 gallons of fresh water, and showers in its wet bath
+- The van will not take the roughest roads, the ones the record calls 4WD or keeps at the lowest maintenance level, and it says why
+- A ride now eases in instead of jumping straight to full speed
+- The trip code has "Copy it" and "Save it as a file" instead of an email link
+
 ## October 24, 2026, 6:06 PM: The desert week, a new start picture, and no brand names
 
 - This week's four-night trip is near Quartzsite, Arizona, on Bureau of Land Management land: the Montana forests had rain and snow in Monday's forecast, and we never send you camping in snow
