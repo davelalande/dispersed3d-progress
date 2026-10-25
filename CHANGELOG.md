@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 3:20 PM: Charred logs and glowing coals
+
+- Where the fire works the logs, the wood turns black and the char splits into small blocks that glow orange in the cracks
+- The coals are a jumble of separate lumps, each at its own heat: orange-yellow where hot, deep red where cooler, cooling as the fire dies
+- Once the flames are gone, the inside of a steel fire ring dims instead of glowing brighter
+
 ## October 25, 2026, 2:49 PM: A real campfire
 
 - The campfire's flames are a real fire: simulated once on our own computer with Blender's fire solver and filmed, then played back in the game
