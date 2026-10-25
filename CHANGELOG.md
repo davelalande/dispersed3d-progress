@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 5:36 PM: Your Grok Bot keeps its seat
+
+- If the game's tab is hidden behind your Grok chat, your Grok Bot's seat now stays open instead of closing after 10 minutes
+- Your Grok Bot is told the game is paused and asks you to bring it back; its move is saved and plays the moment the game is on screen
+- The hidden tab's title says your Grok Bot is waiting, with the trip code, so you can find the right tab
+- Opening your trip again later on the same device picks the seat back up by itself, so you do not press Have your Grok Bot play again
+
 ## October 25, 2026, 3:20 PM: Charred logs and glowing coals
 
 - Where the fire works the logs, the wood turns black and the char splits into small blocks that glow orange in the cracks
