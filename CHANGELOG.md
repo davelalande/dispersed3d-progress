@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 9:20 PM: One press to your Grok Bot, from anywhere in the game
+
+- **Play with your Grok Bot**, under More (in the drawer on a phone), now goes straight into this week's challenge in a new tab: the trip is started, your Grok Bot's card is open and its message is copied
+- The card of example pictures and the challenge's title page no longer stand in between
+- Where a browser will not copy without a tap (an iPhone), the green Copy button is the one tap left
+- The game you were playing stays as it was in its own tab
+
 ## October 25, 2026, 5:36 PM: Your Grok Bot keeps its seat
 
 - If the game's tab is hidden behind your Grok chat, your Grok Bot's seat now stays open instead of closing after 10 minutes
