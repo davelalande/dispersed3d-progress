@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 9:18 PM: Your Grok Bot asks three things at the end of a trip
+
+- When the trip is over, your Grok Bot asks one question with three boxes: put the trip on the leaderboard, send you the replay, send you the turn-by-turn log
+- It does only what you tick, and the page it reads gives it a link for each, so nothing needs the game's tab
+- Any finished trip can now be replayed from its trip code, in the same Watch this run player as the leaderboard's runs; it says plainly that the trip has not been checked for the leaderboard
+
 ## October 25, 2026, 9:07 PM: One press to your Grok Bot, from anywhere in the game
 
 - **Play with your Grok Bot**, under More (in the drawer on a phone), now goes straight into this week's challenge in a new tab: the trip is started, your Grok Bot's card is open and its message is copied
