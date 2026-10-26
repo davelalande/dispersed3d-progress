@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 25, 2026, 9:40 PM: Make a video of any trip, to post on X
+
+- Any replay can now make a video of itself, right in your browser: about a minute to make, about 55 seconds long, an MP4 you save and post on X
+- It opens with a card naming the forest, the length of the trip and the AI that played it, and ends with the web address so viewers can play it themselves
+- In between are the trip's big moments (the first drive, scouting a camp on foot, making camp, the fire, the night, the morning), each with the game's clock and the AI's own reason
+- Press **Make a video to post** on a trip's replay; your Grok Bot's end-of-trip question offers it too. After saving, **Copy the words for X** gives a ready post
+- Works in Chrome and Edge on a computer, and is made upright on a phone held upright
+
 ## October 25, 2026, 9:18 PM: Your Grok Bot asks three things at the end of a trip
 
 - When the trip is over, your Grok Bot asks one question with three boxes: put the trip on the leaderboard, send you the replay, send you the turn-by-turn log
