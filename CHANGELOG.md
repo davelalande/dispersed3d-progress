@@ -2,7 +2,7 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
-## October 25, 2026, 9:20 PM: One press to your Grok Bot, from anywhere in the game
+## October 25, 2026, 9:04 PM: One press to your Grok Bot, from anywhere in the game
 
 - **Play with your Grok Bot**, under More (in the drawer on a phone), now goes straight into this week's challenge in a new tab: the trip is started, your Grok Bot's card is open and its message is copied
 - The card of example pictures and the challenge's title page no longer stand in between
