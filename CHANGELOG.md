@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 27, 2026, 4:20 PM: Your rig's fridge, batteries and traction boards
+
+- The camp's cooler is now the rig's 12 V fridge/freezer, and it runs on the rig's batteries
+- One battery gauge on the camp card: the fridge and the Starlink dish draw from it, and the solar panels charge it by day, less in shade and under cloud. Let it run flat and the next morning a day of food is spoiled
+- Stuck in mud or sand, the traction boards take three steps: get them off the rack, drive out on them, pick them up. Leave them behind and they are gone for the rest of the trip
+- Each rig camps its own way: the Tacoma has a headlamp, a camp stove outside, a cathole and dishes washed outside; the van's cabin lights and induction cooktop run on its batteries, and its toilet and gray tank are emptied at a dump station
+- A trip has one run to town and back; heading for town at the end still ends the trip
+- The camp table, lantern and fridge come down when you turn in, even with the dish left up for the night
+- Starting a new Self Drive while the rig is still rolling brings the speed buttons and Stop back to the windshield
+
 ## October 25, 2026, 9:40 PM: Make a video of any trip, to post on X
 
 - Any replay can now make a video of itself, right in your browser: about a minute to make, about 55 seconds long, an MP4 you save and post on X
