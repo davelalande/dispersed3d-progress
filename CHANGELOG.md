@@ -2,6 +2,19 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 28, 2026, 5:49 AM: Crawl the rough roads, read the river before the ford, bring your gear in before the wind
+
+- On rocky and rutted roads a new **Crawl** button (beside Air down) slows the rig to spare its tires and parts; rushing a rough road makes a flat or a broken part more likely. In sand and mud, keeping your speed up still matters
+- A trip that drives rough road gets a new row on its card: **Took the rough roads slow**
+- Airing down still helps a little on rough roads, but it no longer earns a row or a field note
+- At a creek ford the game reads the real USGS river gauge. When the water stands above where it was a day earlier, walk the ford first or camp and cross in the morning (**Read the gauge before the ford**)
+- A fire lit where a fire ban is posted no longer counts as put out right, however well it was drowned
+- The wind in the Weather Service's hourly forecast now matters at camp: bring the van's awning in by 20 mph, and take down the Starlink dish and the portable panels by 30 mph (a tent left alone to hold a site tears at 30 mph too). Gear left out blows over and is gone for the rest of the trip (**Took your gear in before the wind**)
+- The Tacoma's camp stove is camp kit now: set it up outside before you cook, and pack it cool with the fuel capped before you drive on
+- The Tacoma carries a 100 Ah portable battery and two portable panels in the cab. Set them out in a sunny spot; the dish draws on the portable battery first, which spares the house batteries for the fridge
+- The van fills its fresh tank with town water on the one run to town (**Filled the fresh tank with town water**); creek water is for washing
+- Filtering water says up front when the jug is already full, and Pack up camp names everything still out, the stove and the portable kit included
+
 ## October 27, 2026, 4:20 PM: Your rig's fridge, batteries and traction boards
 
 - The camp's cooler is now the rig's 12 V fridge/freezer, and it runs on the rig's batteries
