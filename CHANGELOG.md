@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 28, 2026, 11:07 AM: Each camp's real record, and something new every night
+
+- The morning card links the camp's own page on davelalande.com, with a reminder to check closures and fire rules with the forest (or the BLM office) before you go
+- When a trip ends, its card names the camp you slept at most: what its record says it costs, how long you may stay (the record's own limit, or the general 14-day rule on national forest and BLM land, said as the general rule), and the same link
+- Each night's card says one thing that is new tonight: the brightest planet up after dark, the first bright star to rise, the Weather Service's wind and low, or the nearest creek gauge against a day earlier. Each line says where it comes from, and no two nights in a row say the same kind of thing
+
 ## October 28, 2026, 5:49 AM: Crawl the rough roads, read the river before the ford, bring your gear in before the wind
 
 - On rocky and rutted roads a new **Crawl** button (beside Air down) slows the rig to spare its tires and parts; rushing a rough road makes a flat or a broken part more likely. In sand and mud, keeping your speed up still matters
