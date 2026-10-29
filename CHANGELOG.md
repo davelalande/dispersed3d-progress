@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 29, 2026, 2:06 PM: Your first night
+
+- A third button on the title, **Your first night**, is a gentle way in for anyone who has never camped. You start at the forest's town junction with full tanks, about 90 minutes before that forest's real sunset
+- A small coach card walks you through the evening one step at a time: find a camp, level the rig, set up the tent (or put the van's awning out), and light the fire (or, where the posted rule says no fires, skip it). Each step says why it matters
+- On your first visit, Your first night is the button the title points you to. Continue brings a first night back right where you left it
+- In the morning, a first-night card shows what you got done before dark, with a picture to save or share and a link that opens straight into Your first night (add `?first=1` to the game's address)
+- It's free play with no score, and it never mixes with a challenge
+
 ## October 28, 2026, 11:07 AM: Each camp's real record, and something new every night
 
 - The morning card links the camp's own page on davelalande.com, with a reminder to check closures and fire rules with the forest (or the BLM office) before you go
