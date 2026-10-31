@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 31, 2026, 11:44 AM: Your night in 10 seconds
+
+- The first-night card now shows a real picture of your camp at dusk, taken in the game, instead of a drawn card
+- **Make the 10-second film** plays your camp's real sky from sunset into the night in about 10 seconds: about 4 seconds from sunset to the end of twilight, then 6 seconds of night, following the Moon when it is up. It is made in your own browser and saved to your device; nothing is uploaded. The film is brightened like a phone's night photo, and it says so. The ordinary morning card offers it too
+- A shared first-night link now opens on the forest's page with a picture and one button, **Play your first night**, so it shows properly when pasted into a message
+- After a first night, **Stay another night** carries on in the ordinary game from the same camp, the way Continue does
+- Camp pages on davelalande.com that fall inside a game forest have a **Spend your first night here** link. The first night then points you at that camp, and its card links back to the camp's own record
+- On a first visit the title shows one way in, Your first night, and folds Four nights and the challenge under **More ways to play**. Coming back, you see all three
+- The rig page has a take-apart tour: buttons for Power, Water and Gas pull each system out with gauges from the game's own numbers, a sky-cover slider shows what clouds do to the solar panels, and a 30-second tour runs by itself
+
 ## October 29, 2026, 2:06 PM: Your first night
 
 - A third button on the title, **Your first night**, is a gentle way in for anyone who has never camped. You start at the forest's town junction with full tanks, about 90 minutes before that forest's real sunset
