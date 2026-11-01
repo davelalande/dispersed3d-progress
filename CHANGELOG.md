@@ -2,6 +2,11 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## October 31, 2026, 9:05 PM: The rig tour holds still on a phone
+
+- The rig page's take-apart tour no longer scrolls the page on a phone, while it plays or when you drag through it
+- The first-night card now says exactly what stays on your device: nothing about the picture or the film is sent anywhere
+
 ## October 31, 2026, 11:44 AM: Your night in 10 seconds
 
 - The first-night card now shows a real picture of your camp at dusk, taken in the game, instead of a drawn card
