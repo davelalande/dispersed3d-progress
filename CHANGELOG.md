@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 1, 2026, 4:51 PM: Dinner on the coals, and where will the Moon clear the ridge?
+
+- After 5 PM, once your campfire has burned down to coals, the night card offers a second Cook: **Dinner on the coals**. Camp Cook plays a foil packet of potatoes, onion, smoked sausage and butter, about 20 minutes in the coals and turned once. You see a ring of stones, glowing coals, the foil folding shut, and tongs turning the packet
+- The packet's food box uses U.S. Department of Agriculture figures for each food (sausage, potatoes, onion, butter), with the amounts marked as estimates. It is the game's own recipe until Dave adds his own camp dinners
+- On a night when the Moon (or, on a moonless night, a bright planet) will rise over your camp's real ridge, the evening card asks **Where will the Moon clear the ridge?** Mark your guess on the skyline, which is drawn from the USGS elevation map. At the real minute the game says how many degrees off you were. Sleep through it and the morning card still tells you. The 10-second film's caption carries it too: "Guessed the Moon within 6 degrees"
+- **Meet me at my camp:** the first-night card says how many minutes before the sun left your camp's ridge you made camp. Copy the link and a friend sees your camp's picture with one button to play the same first night; their card then compares, in one line, how early each of you made camp. The numbers ride in the link itself, so nothing is sent anywhere
+- The camp pictures on the share pages and on davelalande.com's camp pages were re-taken without the rig's sponsor panel
+
 ## October 31, 2026, 9:05 PM: The rig tour holds still on a phone
 
 - The rig page's take-apart tour no longer scrolls the page on a phone, while it plays or when you drag through it
