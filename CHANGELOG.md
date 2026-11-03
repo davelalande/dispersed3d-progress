@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 3, 2026, 7:24 AM: In the rain you get inside
+
+- When the Weather Service's hourly forecast says it is raining at your camp, the camp card says so, with the chance and about when it stops. Cooking, dishes and a fire outside still work, but you are standing in it. The card offers the dry ways: **Wait out the rain in the cab** (or inside the van) until the forecast's first dry hour, up to 2 hours; **Get in the tent for the rain** once the tent is up (take what you need and go potty first); **Eat something that needs no stove**; and, once you're inside with the satellite dish up and sky over it, **Watch a show on Starlink**, which draws from the batteries like the dish does
+- The trip card gains a row on a trip that saw rain at camp: **Got in out of the rain**. It is checked when nothing was cooked, washed up or lit outside while it rained. The van's galley is inside, so it cooks in any weather. Rain that falls only while you sleep doesn't count
+- Camp parking spots now keep off creeks. The aerial photo misses narrow creeks, so the game also reads the USGS creek lines: a spot within 40 feet of a creek is refused when other ground will do, and spots 200 feet away, as Leave No Trace says, are preferred. Morrell Creek's spot in the Lolo moved off the creek bed
+- On a phone, the first-night card has **Send this night**: one button hands your 10-second film and your meet-me link to your phone's share sheet together, so a friend can play the same first night. Your phone does the sending; the game sends nothing itself
+- On the rig drawings, tapping an add-on part (the winch, the fridge, the solar panels and so on) shows one quiet line saying it can carry a sponsor, with a link to the sponsor page. A rig's own factory parts never get one
+- The 10-second film's caption puts the date on its own line when the forest's name is long, so the year is no longer cut off
+- The friend's line on the radio no longer ends a sentence with two periods
+
 ## November 1, 2026, 4:51 PM: Dinner on the coals, and where will the Moon clear the ridge?
 
 - After 5 PM, once your campfire has burned down to coals, the night card offers a second Cook: **Dinner on the coals**. Camp Cook plays a foil packet of potatoes, onion, smoked sausage and butter, about 20 minutes in the coals and turned once. You see a ring of stones, glowing coals, the foil folding shut, and tongs turning the packet
