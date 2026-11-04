@@ -2,6 +2,15 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 4, 2026, 2:45 PM: What is new tonight
+
+- Each night card now has a row that says what is new tonight. The first night it is called **Tonight**; after that it is **Since last night**: when the Moon rises or sets and how many minutes later or earlier than last night, whether it is thinner or fuller, tonight's low from the Weather Service, and the first bright star to look for, with its time
+- The short loop on foot now names a different real thing each time you walk it from the same camp: the summit you can see from the turnaround (from the GNIS names), then the camp's creek by its USGS gauge reading, then a fire perimeter the loop goes into (from NIFC's record). A camp with only one of these says it every time, as before
+- The morning page warns you once when there is less water in the jug than the nights left will take, in the game's own numbers: "the jug has 3.6 gallons in it, and the 3 nights left take 4.2 gallons"
+- The trip card's **Left it better** row now says where to look: the walk on foot around camp is where you see litter at a fire ring
+- "The sun clears the ridge" is said as something that will happen until the clock gets there, and as done after
+- When a weak connection drops the very first download, the game quietly asks once more instead of stopping on "This world could not be loaded"
+
 ## November 3, 2026, 7:24 AM: In the rain you get inside
 
 - When the Weather Service's hourly forecast says it is raining at your camp, the camp card says so, with the chance and about when it stops. Cooking, dishes and a fire outside still work, but you are standing in it. The card offers the dry ways: **Wait out the rain in the cab** (or inside the van) until the forecast's first dry hour, up to 2 hours; **Get in the tent for the rain** once the tent is up (take what you need and go potty first); **Eat something that needs no stove**; and, once you're inside with the satellite dish up and sky over it, **Watch a show on Starlink**, which draws from the batteries like the dish does
