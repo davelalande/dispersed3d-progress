@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 5, 2026, 10:21 AM: Be on your pad while you can still see
+
+- **Camp made before dark.** Each camp has its own dark line: the minute the sun goes behind its west ridge, or sunset where no ridge takes it early. Make a camp after that and setting up takes half again as long (the game's guess), and the trip card has a new row, **Camp made before dark, every night**
+- **Walk the pad before you go.** One more line when you leave a camp, 3 minutes. About one camp in three, the game leaves something small there, like a tent stake or a twist tie, and says plainly that the game put it there. Leave No Trace says to inspect your campsite before you leave
+- Fire rules now go by the forest's own day. After 5 PM in Montana the card could read tomorrow's date. An order that has ended leaves the card, and a food order doesn't count before it starts
+- When the hot shower or dinner on the coals isn't offered, the game now says why
+- **Been here for real?** The end cards have a new link to tell a camp's record what you found
+
 ## November 4, 2026, 2:45 PM: What is new tonight
 
 - Each night card now has a row that says what is new tonight. The first night it is called **Tonight**; after that it is **Since last night**: when the Moon rises or sets and how many minutes later or earlier than last night, whether it is thinner or fuller, tonight's low from the Weather Service, and the first bright star to look for, with its time
