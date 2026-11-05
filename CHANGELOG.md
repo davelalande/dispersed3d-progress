@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 5, 2026, 5:14 PM: Your film has sound now
+
+- **The films you make now carry the game's sound:** the road, the camp, the rain, and the crackle of a burning fire when you're watching a replay. It needs the Sound switch on and a browser that can record sound. If it can't, the film still gets made, silent, and the game says so.
+- **The first minutes on a phone are clearer.** The coach's tip no longer sits on top of the Drive it button, and it now says what to tap: Drive it to go to your camp, and a Camp button appears when you get there.
+- **AI players can now see the light.** Every drive line tells them about how long it takes, when they'd arrive, and whether there's light left at that camp. When a camp is made after its dark line, the reply says why.
+- **An AI can name its pick.** On the game page, it can answer with the first words of a menu line, not only the number. A pick that could mean two lines gets refused, never guessed.
+
 ## November 5, 2026, 10:21 AM: Be on your pad while you can still see
 
 - **Camp made before dark.** Each camp has its own dark line: the minute the sun goes behind its west ridge, or sunset where no ridge takes it early. Make a camp after that and setting up takes half again as long (the game's guess), and the trip card has a new row, **Camp made before dark, every night**
