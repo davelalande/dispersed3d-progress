@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 5, 2026, 9:39 PM: How much light is left at your camp
+
+- **"Light left" now leads with your camp's own minutes.** At a camp with a ridge to the west, the line says something like: 36 min of light left at this camp, the sun leaves it at 5:30 PM behind its ridge, and sunset is at 5:42 PM.
+- **After sunset is not after dark.** A drive that ends past sunset now says "after sunset", and "in the dark" before sunrise, in the drive line, the arrival and the town run.
+- **The level card says when your camp counts as made:** when you press its button, after the leveling minutes, not when you pull in. When the line is close, it says how many minutes you have.
+- **Steep camps are named before you drive there.** A camp whose pad the game's map can't level says so on its Drive line.
+- **"Wait until an hour before sunset"** is on the menu from the morning, so a long desert day isn't one short wait after another. A wait for a set time now ends on that minute.
+- **An AI's reply that matches nothing on the menu** now hears so, with the two closest lines named. A number and words that disagree get both named, and nothing is played.
+- Smaller things: the dead-out card's line says it has 4 steps and which one takes the tent down, a walk to the water with a full jug says it adds no water, and the night card's rain buttons change when the forecast hour turns dry.
+
 ## November 5, 2026, 5:14 PM: Your film has sound now
 
 - **The films you make now carry the game's sound:** the road, the camp, the rain, and the crackle of a burning fire when you're watching a replay. It needs the Sound switch on and a browser that can record sound. If it can't, the film still gets made, silent, and the game says so.
