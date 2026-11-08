@@ -2,6 +2,21 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 8, 2026, 9:09 AM: Two camps cost money, and the wait shows where you are going
+
+- **Two camps were called free, and they are not.** By the Forest Service's own pages, one of Custer Gallatin's camps is a reservation-only group site at $185 a night, and Mono Creek is $15 a night plus $5 for each extra vehicle. The camp cards now say so, with where the price comes from. Custer Gallatin's first goal is now Moser Road 6212 G15.
+- **Tonight's camp is one you can win.** From November 10, the game's pick for the night skips the few camps where nothing near the pad can be leveled, or where the camp's own ridge takes the sun within half an hour of a first arrival. Nights you have already played keep the camp they had.
+- **While the game loads, it shows where you are going.** On a first night, the wait names your camp and today's real sunset, says what it is doing ("Loading the real ground", then "Building the view"), and shows a game view of the camp. On a slow connection it says so instead of sitting on a number.
+- **The back gesture closes the card.** On a phone, going back with a card, Help or the drawer open now closes it and keeps you in the game.
+- **The trip card counts every mile.** The trip card, its picture and the copied text now say how far you really drove, the run to town included. The night notes say when they leave the town run out.
+- **"Sit out the afternoon" says what it costs:** a gallon of water, on the button and the Stay card.
+- **An empty tank says so.** The rig won't pretend to start a drive on an empty tank, and after a reload the title says plainly that the trip ended and the rig wasn't saved.
+- **Continue after a reload in the middle of a drive** now says the drive stopped and to pick it again in Drive.
+- **The Features page has a new look.** It runs from late afternoon to night as you scroll, with a thin light-left line on top, the four places as game pictures with their real skylines drawn to one scale, the features as short tiles, and the changelog as a logbook with a chart of releases a day: [Features and changes](https://momatio.com/dispersed3d/features/).
+- **Crystal Hill's own rules now reach the live game.** Last night's notes said Crystal Hill is on Kofa National Wildlife Refuge and that gathering wood there brings a small pile, but the live game was still reading the camp's older record until this morning. It now has the refuge as the land manager, with the refuge's own camping, fire and stay rules.
+- **The map names the camp you are going to.** On a phone, a long camp name that fits nowhere with its grid square is tried without it, so the goal is never left as a bare dot.
+- Smaller things: a washboard tip no longer lands on top of a later tap, and the changelog's month fold now says how many releases the month had in all, not only the ones folded away.
+
 ## November 7, 2026, 9:05 PM: A first night that starts itself, and a trip that survives a reload
 
 - **A link to a forest now opens your first night.** Someone new who follows a link lands on the road to a real camp, with one sentence that says what this is, where it is, and when the sun goes down there today. People who've played before still get their own trip.
