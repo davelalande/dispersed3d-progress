@@ -69,7 +69,7 @@ Some of the things you see in the game, like the road-number posts at the forks,
 
 ## The four forests
 
-Each one has its own page with a picture of tonight's camp near sunset. The picture is made fresh each day.
+Each one has its own page with a picture of a real camp near sunset, dated on the card. New pictures come with each release.
 
 <table>
 <tr><td width="240"><a href="https://momatio.com/dispersed3d/share/lolo-national-forest.html"><img src="media/title/lolo-national-forest-wide.jpg" alt="Lolo National Forest" width="240"></a></td><td valign="middle"><strong>Lolo National Forest</strong>, Montana<br><a href="https://momatio.com/dispersed3d/share/lolo-national-forest.html">Tonight's camp, as a picture</a> &nbsp;|&nbsp; <a href="https://momatio.com/dispersed3d/">Play it</a></td></tr>

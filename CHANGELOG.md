@@ -2,6 +2,24 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 7, 2026, 9:05 PM: A first night that starts itself, and a trip that survives a reload
+
+- **A link to a forest now opens your first night.** Someone new who follows a link lands on the road to a real camp, with one sentence that says what this is, where it is, and when the sun goes down there today. People who've played before still get their own trip.
+- **A reload keeps your whole trip.** Continue used to hand back a full food box, forget your garbage, and lose count of your nights at a camp. Now all of that comes back, along with your morning, and a reload can't give you a second town run. A finished trip's card stays too: See your last trip's card.
+- **Set up once, not every morning.** At a camp you're holding, the hand-wash station stays up while you're there. The stove goes on the tailgate to cook and back in the bed after. A tent left holding a site stays up and costs no minutes, and the camp card says the site is held.
+- **A morning isn't one tap anymore.** If you close the morning card, the camp card's Back to this morning brings back its choices, like the town run and Stay today. A stove left out now gets its own button on the way to town.
+- **Two more dinners on the coals:** fish fried on a flat rock, and bannock bread, next to the foil packet. Each has its steps in Camp Cook, with a first-timer's tip: use a dry rock from up the bank, never one from the creek.
+- **The desert plays by the desert's rules.** Where water is the limit, a fire that burned down and felt cold still counts as put out for your trip, and you can light one on short water if you stay with it until it burns down. A posted fire rule still comes first.
+- **A camp's own rules change what you can do.** Crystal Hill is on Kofa National Wildlife Refuge, and the refuge says wood is very scarce and asks you to bring your own, so gathering there brings a small pile. The Quartzsite world's first goal is now Scaddan Wash.
+- **The morning card tells the truth.** It could say "You set up in the dark" after a camp made in daylight, and "level" after a night on a slope. It now goes by when you really made camp, and says nothing about level it hasn't measured.
+- **Send this night.** One button shares your film and a link to your camp. The page your friend opens says plainly when its picture is another camp or another day.
+- **Build yours.** The rig pages let you pick parts by kind, see what the game's numbers do, and film your build in 20 seconds. If a phone is too busy to finish the film, it says so instead of handing you a short one.
+- **What would you do?** A checked AI run can stop on one real decision and ask you first, then show what it did and what the trip needed.
+- **Hear its reasons.** On a Watch page, one tap and your own device reads the AI's reasons out loud. It's your device's voice, and the page says so.
+- **Films tell the truth about numbers.** A caption could cut a decimal apart, so "1.7 gallons" read "7 gallons". That's fixed, and the affected films have been made again.
+- **A page for everything in the game.** [Features and changes](https://momatio.com/dispersed3d/features/) lists what the game does and every release so far. Open it from Help, under What's new.
+- Smaller things: a sideways phone keeps more of the road in view, the level card's numbers and verdict show without scrolling on a phone, a long web address can't push a card wider than the screen, and turning in just before sunrise sleeps to that sunrise instead of a whole extra day.
+
 ## November 5, 2026, 9:39 PM: How much light is left at your camp
 
 - **"Light left" now leads with your camp's own minutes.** At a camp with a ridge to the west, the line says something like: 36 min of light left at this camp, the sun leaves it at 5:30 PM behind its ridge, and sunset is at 5:42 PM.
@@ -177,7 +195,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 
 ## October 24, 2026, 6:06 PM: The desert week, a new start picture, and no brand names
 
-- This week's four-night trip is near Quartzsite, Arizona, on Bureau of Land Management land: the Montana forests had rain and snow in Monday's forecast, and we never send you camping in snow
+- This week's four-night trip is near Quartzsite, Arizona, on Bureau of Land Management land: the Montana forests had a cold, wet forecast for Monday, and we only send you camping in spring, summer and fall weather
 - On that trip the town pump fills 10 gallons, so the drive home and the back half of the week matter
 - The start picture is shot from the truck's other side, with the fire beside its sign instead of in front of it, on a computer and on a phone
 - The overland gear on your rig is named by what it is, not by brand: pop-up camper shell, 12 V fridge/freezer, lithium batteries, battery monitor
@@ -657,7 +675,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 - A campfire you can see at night
 - The real Moon, in its real phase and place
 - Camp is its own scene, so a phone uses less than half the memory at camp (77 MB down to 34 MB)
-- Water never looks like snow
+- Water always looks like water
 - A game-first screen with more room for the forest
 
 ## October 1, 2026: The first pieces
