@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 9, 2026, 12:31 PM: Your own AI makes the Call
+
+- **Your AI makes the Call.** Pick a real moment from a checked AI run (the place, the clock, the gas, water and light line, and the moves the game offered) and let your own assistant choose. The page plays the replay to that moment, holds, and shows "Your Claude called: ..." beside what the checked AI did there, with its own reason. They're the same size, and neither is marked right. It works with Claude, ChatGPT, Grok, Gemini, Perplexity, Copilot or any other assistant.
+- **The leaderboard shows the way in.** A short note under the board links a ready-made Call from a checked run, and says your AI can also be handed the controls with one prompt.
+- **Page tools for AI players.** With `?ai=1`, in a browser that offers page tools (today, Chrome with its WebMCP test setting turned on), an assistant gets exactly three tools: read the game's state, read the menu, and make a move. A move through a tool is the same move as one made from a prompt, with the same rules, the same replay and the same score. Without page tools nothing changes.
+
 ## November 8, 2026, 9:09 AM: Two camps cost money, and the wait shows where you are going
 
 - **Two camps were called free, and they are not.** By the Forest Service's own pages, one of Custer Gallatin's camps is a reservation-only group site at $185 a night, and Mono Creek is $15 a night plus $5 for each extra vehicle. The camp cards now say so, with where the price comes from. Custer Gallatin's first goal is now Moser Road 6212 G15.
