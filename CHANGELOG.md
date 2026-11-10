@@ -2,6 +2,17 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 9, 2026, 9:25 PM: Three daily games, and "Ask your AI" on a finished trip
+
+- **Beat the bot (new page, [/beat/](https://momatio.com/dispersed3d/beat/)).** Seven real decisions a day, taken from checked AI runs. You see the place, the clock, the gas, water and light line, and the moves the game offered. You pick, then see what the AI picked and its reason. Your pick and the AI's are shown the same size, and neither is marked "right"; a "Watch this moment" link replays that spot in the game.
+- **Name that forest (new page, [/skyline/](https://momatio.com/dispersed3d/skyline/)).** A daily quiz: a drawing of a skyline as seen from camp, and you name the place (four choices: three Montana national forests and Quartzsite, Arizona, which is BLM land). The skylines are drawn with the game's own calculation from the same ground data, so the answer is the one the game itself would show.
+- **When does the sun leave this camp? (new page, [/puzzle/](https://momatio.com/dispersed3d/puzzle/)).** A 30-second daily puzzle. You guess the minute the ridge takes the sun away from a real camp, and see how close you were. The answers come from the game's own ridge calculation, not a second guess. Calculations only count the ridge on our map, so a real camp can differ by a few minutes.
+- **Ask your AI about this forest.** The trip-ended card now has three plain links (Claude, ChatGPT, Perplexity) with a ready question about planning four nights in that forest with one town run, plus a copy box if you use another assistant. Nothing is sent from our page, and only the forest's name is in the link; some assistants run the question as soon as it opens. To use our camp records, add davelalande.com/mcp as a connector in your assistant's settings. Without it, your assistant answers from the web.
+- **Montana stay limits say the real rule.** Montana national forests now show the Forest Service order (16 days in a row on one site) instead of the general 14-day rule, including in the "stay limit" tap-pop-up. The game counts your nights in a row against the 16 and names the order's 32-day yearly limit without counting it.
+- **Footer:** the three daily games (the sun puzzle, Name that forest and Beat the bot) now have their own sentence.
+
+Honest limits: the three daily pages use one set of days for everybody (no accounts, no scores kept on our side). Beat the bot's seven decisions come from the checked runs we have, so the pool is small and will repeat. Beat the bot leaves out any moment where an AI calls a camp free that the Forest Service lists as a paid campsite.
+
 ## November 9, 2026, 12:31 PM: Your own AI makes the Call
 
 - **Your AI makes the Call.** Pick a real moment from a checked AI run (the place, the clock, the gas, water and light line, and the moves the game offered) and let your own assistant choose. The page plays the replay to that moment, holds, and shows "Your Claude called: ..." beside what the checked AI did there, with its own reason. They're the same size, and neither is marked right. It works with Claude, ChatGPT, Grok, Gemini, Perplexity, Copilot or any other assistant.
