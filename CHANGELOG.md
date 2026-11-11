@@ -2,6 +2,14 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 11, 2026, 7:44 AM: The short loop holds still, and Beat the bot counts your days
+
+- **The short walking loop is the same on every device.** The loop the game lays out from camp used to depend on how much fine detail had loaded on your screen when it was planned. A phone and a computer could show different loops from the same camp, and the summit named at the turnaround could change between visits. The loop is now chosen from the same ground map on every device and every visit, and it still never climbs more than 30 percent on the ground you see. Nothing about the walk's length rules or the "this path is the game's, not a mapped trail" note changed.
+- **Beat the bot counts your days in a row ([/beat/](https://momatio.com/dispersed3d/beat/)).** Finish all seven decisions and the end says "Day one", then "2 days in a row", "3 days in a row" and so on, and your share line carries it from day two. It counts days you played, never how often you agreed with the AI.
+- **A saved trip can only be added to from the browser that started it.** A new trip now gets a private key that stays in your browser. The trip code you share still opens the replay for anyone, but only your browser can keep saving to the trip. Trips started before this update work as they did.
+
+Honest limits: the days-in-a-row count lives in your browser, so clearing your browser's storage or switching devices starts it over. If you open a trip you started on another device, you can watch it but not keep saving to it there.
+
 ## November 9, 2026, 9:25 PM: Three daily games, and "Ask your AI" on a finished trip
 
 - **Beat the bot (new page, [/beat/](https://momatio.com/dispersed3d/beat/)).** Seven real decisions a day, taken from checked AI runs. You see the place, the clock, the gas, water and light line, and the moves the game offered. You pick, then see what the AI picked and its reason. Your pick and the AI's are shown the same size, and neither is marked "right"; a "Watch this moment" link replays that spot in the game.
