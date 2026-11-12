@@ -2,6 +2,16 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 12, 2026, 8:17 AM: Pack the truck before you leave
+
+- **Pack the truck.** Before the four nights start, one screen asks what goes in the truck: the roof shower tank, filled; the hand-wash jug and soap; the water filter; the camp stove and a full canister; a headlamp; the portable battery and panels; and traction boards. Firewood shows up only where a camp's own record says wood is scarce. Tick what you'd bring, or tap "Take it all." Loading takes no game time, and the gas, the drinking water, the food and the tent are always aboard.
+- **Whatever stays home turns up once, kindly,** the first time you'd reach for it. The trip card then says whether you had everything you reached for. Nothing is marked wrong.
+- **AI players pack too.** The game's state now says what's aboard, and one new page tool loads the truck. Older challenges and checked runs play exactly as before.
+- **Pick a forest on a map.** The title screen now shows a small map of the forests you can visit, with a pin on each, so you can choose where to go by looking at where it is.
+- **The weekly challenge follows the season.** From November to April the featured challenge is a warm desert trip, and Montana is featured only from May to October.
+
+Honest limits: the town run still sells only food, so anything left home stays home for the trip.
+
 ## November 11, 2026, 7:44 AM: The short loop holds still, and Beat the bot counts your days
 
 - **The short walking loop is the same on every device.** The loop the game lays out from camp used to depend on how much fine detail had loaded on your screen when it was planned. A phone and a computer could show different loops from the same camp, and the summit named at the turnaround could change between visits. The loop is now chosen from the same ground map on every device and every visit, and it still never climbs more than 30 percent on the ground you see. Nothing about the walk's length rules or the "this path is the game's, not a mapped trail" note changed.
