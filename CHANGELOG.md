@@ -2,6 +2,29 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 14, 2026, 1:04 PM: Tomorrow's trouble, your morning card, and a quicker first roll
+
+- **Quicker to the first roll.** A first visit now starts the truck with one tap on "Your first night," and you can tap ahead while the ground is still loading. On a phone the scenery waits until you are rolling, so the first minute is lighter.
+- **Never a blank screen.** If your device can't start the 3D view or it stalls, you get a plain message and a way forward instead of an empty page. Older phones are handled gently.
+- **Call while it loads.** While the ground loads on a first phone visit, you can look at a few pictures of the forest and make one real call about where to camp.
+- **Tomorrow's trouble.** At bed-down on night one (and night three, if you haven't been to town yet) a plate shows tomorrow's forecast next to your gas, your water and the road miles to town. You pick a town run or push on, and the morning card says what you chose. New challenges only; older ones play as before.
+- **Your morning card.** After a night, one tall picture of your camp and what the game measured there, to save or share.
+- **Night two is waiting.** Leave at dawn and the title says your camp is waiting. Continue picks the trip up on the same phone, you can text yourself the link, and a waiting camp is kept 14 days.
+- **The morning after.** Each camp's Drive line says when the sun first reaches camp (bare ground, and trees may delay it). The morning card has one line, "The night, in words," and on a calm, warm evening beside a mapped wetland the game may say the bugs are out, marked as the game's guess. Challenges use the new rules number 19; older challenges are unchanged.
+- **Where the AI camped.** After your first night, the morning card can quote a checked AI run that camped in the same forest, with its own reason. Only free sites, and not every forest has one.
+- **Hand over the keys.** On a four-night trip you started, one button makes a link that lets a friend play the next night. The card says plainly that the link carries your trip's key, so send it only to someone you trust.
+- **Watch the AI, with sound.** A watched run can play the game's own sound from your first tap, with a Mute button, a phone-friendly mix and the AI's full reasons on screen.
+- **Real place.** At a camp that has a page in our record, the plate links to it.
+- **Tracks.** On a computer, a switch in the Self Drive window shows faint lines where checked runs drove and a small cross where they slept. The lines follow mapped roads and are not a GPS trace.
+- **Drive this camp.** A link with a camp's place in it opens the game and starts you there.
+- **One call from your trip.** A saved trip can send a friend one real choice from that night's forks, and show their pick beside yours.
+- **Play my trip.** Open a friend's finished trip link and see where your night and theirs differ.
+- **Paid camps stay out of the showcase.** "Watch the top run," the share pages and the clips skip any run that slept at a camp that costs money.
+- **AI seat on a phone.** When the drawer is open, the Grok Bot's turn box and tab step aside so the drawer's handle can be tapped. This fixes a box that sat on top of it.
+- **Washes and soft sand (desert, rules 21).** The dry washes in the Quartzsite desert come from real stream and terrain data. Driving through one slows the rig, and you can get stuck in soft sand. Airing down the tires and carrying the traction boards both help. You never camp in a wash. Older challenges are unchanged.
+
+Honest limits: the Tracks lines show where checked runs went, never where anyone is now. A waiting camp and your keys link live in your browser, so clearing its storage or switching devices starts them over. The bugs line is the game's guess, not a survey.
+
 ## November 12, 2026, 8:17 AM: Pack the truck before you leave
 
 - **Pack the truck.** Before the four nights start, one screen asks what goes in the truck: the roof shower tank, filled; the hand-wash jug and soap; the water filter; the camp stove and a full canister; a headlamp; the portable battery and panels; and traction boards. Firewood shows up only where a camp's own record says wood is scarce. Tick what you'd bring, or tap "Take it all." Loading takes no game time, and the gas, the drinking water, the food and the tent are always aboard.
