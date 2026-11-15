@@ -33,15 +33,16 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**October 22, 2026, overnight: Before you settle in**
+**November 14, 2026, 1:04 PM: Tomorrow's trouble, your morning card, and a quicker first roll**
 
-- While you're stopped, one line under the clock shows the trip so far: which night of four, and the gas and water left
-- Settling in before the tent is up and the food is stowed now asks first, once a night
-- The night card opens on Before you settle in and the chores, with the camp's record and rules below
-- Help opens on a five-line Quick start in the game's own button names
-- After four nights, one picture of your trip card with the gas and water left, to save or share
-- Where a forest posts a real food order, the morning card names it
-- The level card is called Level the rig, the morning says Morning after night 1 of 4, and the fourth morning warns before packing up ends the trip
+- **Quicker to the first roll.** A first visit now starts the truck with one tap on "Your first night," and you can tap ahead while the ground is still loading. On a phone the scenery waits until you are rolling, so the first minute is lighter.
+- **Never a blank screen.** If your device can't start the 3D view or it stalls, you get a plain message and a way forward instead of an empty page. Older phones are handled gently.
+- **Call while it loads.** While the ground loads on a first phone visit, you can look at a few pictures of the forest and make one real call about where to camp.
+- **Tomorrow's trouble.** At bed-down on night one (and night three, if you haven't been to town yet) a plate shows tomorrow's forecast next to your gas, your water and the road miles to town. You pick a town run or push on, and the morning card says what you chose. New challenges only; older ones play as before.
+- **Your morning card.** After a night, one tall picture of your camp and what the game measured there, to save or share.
+- **Night two is waiting.** Leave at dawn and the title says your camp is waiting. Continue picks the trip up on the same phone, you can text yourself the link, and a waiting camp is kept 14 days.
+- **The morning after.** Each camp's Drive line says when the sun first reaches camp (bare ground, and trees may delay it). The morning card has one line, "The night, in words," and on a calm, warm evening beside a mapped wetland the game may say the bugs are out, marked as the game's guess. Challenges use the new rules number 19; older challenges are unchanged.
+- **Where the AI camped.** After your first night, the morning card can quote a checked AI run that camped in the same forest, with its own reason. Only free sites, and not every forest has one.
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -82,6 +83,13 @@ Each one has its own page with a picture of a real camp near sunset, dated on th
 
 **Up next**
 
+- **Press Play and you are rolling.** On a first visit, Play skips the welcome and starts the truck toward tonight's camp, with one line on how to take the wheel.
+- **A quieter AI turn bar.** Fold your AI's turn box away and it stays folded, with one slim line saying which turn it is on and why.
+- **Tracks that load.** The Tracks switch gets its data for Custer-Gallatin and the Quartzsite desert, so it has something to draw.
+- **A lighter first page load.** About 50 KB less to download up front: the trip, map and morning cards load just after the first roll.
+- **Standard driving camera views.** Cockpit view with free look, Hood cam and Chase cam, with one key to switch between them.
+- **A second desert world: Hurricane Cliffs, Utah.** A desert near St. George, to go with Quartzsite, Arizona.
+- **An on-foot character.** Walk around as a person, with first-person and third-person views.
 
 **Ideas we're weighing** (nothing is built until we decide)
 
