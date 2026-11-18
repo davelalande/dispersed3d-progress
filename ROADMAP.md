@@ -8,6 +8,13 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### November 18, 2026, 2:09 PM: A second desert, Hurricane Cliffs, Utah
+
+- **Hurricane Cliffs, UT.** A new free-camping desert on BLM land near St. George: eight camps, dry washes and red-rock ground. Pick it in the world list.
+- **Open now, until November 30.** The game plays this place March through May and October through November, the months when the nights normally stay above freezing and the days stay under 90. The window is the game's own, set from the weather service's normal nights; the land office states no closure here. Outside it the list reads "Back Mar 1".
+- **Nobody camps in a wash.** If a recorded camp sits in a dry wash with no road to pull in beside, your pad is moved out onto higher ground nearby (two camps here move: about 118 feet and 20 feet). Flash floods are real, so the game does what you would do.
+- More in the [changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md).
+
 ### November 18, 2026, 12:02 PM: The mouse steers, and the top of the screen folds away
 
 - **The mouse steers.** On a computer, hold W and move the mouse: the truck turns to follow the camera, then straightens by itself. A and D still steer and always win. Hold the right mouse button, or Z, X or Q, to look around without steering. Parked, the mouse looks around as before. "Steer with the mouse" in Help turns it off.
@@ -632,7 +639,6 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **A second desert world: Hurricane Cliffs, Utah.** A desert near St. George, to go with Quartzsite, Arizona.
 - **A gentle stay-on-the-road assist.** A light nudge that helps the truck keep to the road while you drive.
 
 ## Ideas we're weighing
