@@ -2,6 +2,13 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 18, 2026, 12:02 PM: The mouse steers, and the top of the screen folds away
+
+- **The mouse steers.** On a computer, hold W and move the mouse: the truck turns to follow the camera, then straightens by itself. A and D still steer and always win. Hold the right mouse button, or Z, X or Q, to look around without steering. Parked, the mouse looks around as before. "Steer with the mouse" in Help turns it off.
+- **The truck eases off for a tight bend.** Hold the wheel hard over and it slows for the corner, then picks its speed back up when you straighten out.
+- **Hide the top of the screen.** One tap on Hide folds the camp card, the gauges and the compass into one thin line: the clock, the light left, your fuel and water, and how far to camp. It stays folded until you tap Show.
+- **Water is said once.** Drive up to a lake and the game says so once, with "S backs up", instead of again and again.
+
 ## November 18, 2026, 8:27 AM: The view from above, Play gets you rolling, and walking the way you expect
 
 - **The view from above.** On a computer the game now starts in Chase cam, above and behind the truck, so you see the rig and the road ahead. Cockpit view and Hood cam are a press of F away, and switching eases in over a moment instead of jumping. The view you pick is the one you get next time.
