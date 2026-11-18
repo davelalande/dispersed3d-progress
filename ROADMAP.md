@@ -8,6 +8,13 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### November 18, 2026, 8:27 AM: The view from above, Play gets you rolling, and walking the way you expect
+
+- **The view from above.** On a computer the game now starts in Chase cam, above and behind the truck, so you see the rig and the road ahead. Cockpit view and Hood cam are a press of F away, and switching eases in over a moment instead of jumping. The view you pick is the one you get next time.
+- **Your head turns back to the road by itself** when you let go of the look.
+- **W, A, S, D to drive, Shift for more gas.** The arrow keys no longer drive, and the help says so in plain words. The mouse no longer steers unless you switch it on; in the cab it turns your head.
+- More in the [changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md).
+
 ### November 14, 2026, 1:04 PM: Tomorrow's trouble, your morning card, and a quicker first roll
 
 - **Quicker to the first roll.** A first visit now starts the truck with one tap on "Your first night," and you can tap ahead while the ground is still loading. On a phone the scenery waits until you are rolling, so the first minute is lighter.
@@ -618,13 +625,7 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **Press Play and you are rolling.** On a first visit, Play skips the welcome and starts the truck toward tonight's camp, with one line on how to take the wheel.
-- **A quieter AI turn bar.** Fold your AI's turn box away and it stays folded, with one slim line saying which turn it is on and why.
-- **Tracks that load.** The Tracks switch gets its data for Custer-Gallatin and the Quartzsite desert, so it has something to draw.
-- **A lighter first page load.** About 50 KB less to download up front: the trip, map and morning cards load just after the first roll.
-- **Standard driving camera views.** Cockpit view with free look, Hood cam and Chase cam, with one key to switch between them.
 - **A second desert world: Hurricane Cliffs, Utah.** A desert near St. George, to go with Quartzsite, Arizona.
-- **An on-foot character.** Walk around as a person, with first-person and third-person views.
 
 ## Ideas we're weighing
 
