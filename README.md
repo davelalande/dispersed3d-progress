@@ -33,16 +33,12 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**November 18, 2026, 8:27 AM: The view from above, Play gets you rolling, and walking the way you expect**
+**November 18, 2026, 12:02 PM: The mouse steers, and the top of the screen folds away**
 
-- **The view from above.** On a computer the game now starts in Chase cam, above and behind the truck, so you see the rig and the road ahead. Cockpit view and Hood cam are a press of F away, and switching eases in over a moment instead of jumping. The view you pick is the one you get next time.
-- **Your head turns back to the road by itself** when you let go of the look.
-- **W, A, S, D to drive, Shift for more gas.** The arrow keys no longer drive, and the help says so in plain words. The mouse no longer steers unless you switch it on; in the cab it turns your head.
-- **The ground reaches farther on a computer,** so distant ridges and rocks hold their shape as you drive toward them.
-- **Play gets you rolling.** Tap Play on a device that has never driven and the game skips the welcome and the opening card and starts the truck on its own toward tonight's camp, with one thin line that says how to take the wheel.
-- **On foot.** A thumbstick on the left of a phone and a drag on the right half to look. One line tells you what E will do. Walking back to camp is easier, and getting out of the truck and into it eases instead of jumping.
-- **A quieter AI bar.** When you fold your AI's turn box away, it stays folded. One slim line keeps telling you which turn the AI is on and why it did what it did. The full box comes back only when you tap the line, when the rig reaches or makes camp, when the trip ends, or when something stops play.
-- **Tracks now load.** The Tracks switch from an earlier release found nothing to draw on the live site, because its two data files (Custer-Gallatin and the Quartzsite desert) never went up. They go up with this release.
+- **The mouse steers.** On a computer, hold W and move the mouse: the truck turns to follow the camera, then straightens by itself. A and D still steer and always win. Hold the right mouse button, or Z, X or Q, to look around without steering. Parked, the mouse looks around as before. "Steer with the mouse" in Help turns it off.
+- **The truck eases off for a tight bend.** Hold the wheel hard over and it slows for the corner, then picks its speed back up when you straighten out.
+- **Hide the top of the screen.** One tap on Hide folds the camp card, the gauges and the compass into one thin line: the clock, the light left, your fuel and water, and how far to camp. It stays folded until you tap Show.
+- **Water is said once.** Drive up to a lake and the game says so once, with "S backs up", instead of again and again.
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -84,6 +80,7 @@ Each one has its own page with a picture of a real camp near sunset, dated on th
 **Up next**
 
 - **A second desert world: Hurricane Cliffs, Utah.** A desert near St. George, to go with Quartzsite, Arizona.
+- **A gentle stay-on-the-road assist.** A light nudge that helps the truck keep to the road while you drive.
 
 **Ideas we're weighing** (nothing is built until we decide)
 
