@@ -2,6 +2,21 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 18, 2026, 8:27 AM: The view from above, Play gets you rolling, and walking the way you expect
+
+- **The view from above.** On a computer the game now starts in Chase cam, above and behind the truck, so you see the rig and the road ahead. Cockpit view and Hood cam are a press of F away, and switching eases in over a moment instead of jumping. The view you pick is the one you get next time.
+- **Your head turns back to the road by itself** when you let go of the look.
+- **W, A, S, D to drive, Shift for more gas.** The arrow keys no longer drive, and the help says so in plain words. The mouse no longer steers unless you switch it on; in the cab it turns your head.
+- **The ground reaches farther on a computer,** so distant ridges and rocks hold their shape as you drive toward them.
+- **Play gets you rolling.** Tap Play on a device that has never driven and the game skips the welcome and the opening card and starts the truck on its own toward tonight's camp, with one thin line that says how to take the wheel.
+- **On foot.** A thumbstick on the left of a phone and a drag on the right half to look. One line tells you what E will do. Walking back to camp is easier, and getting out of the truck and into it eases instead of jumping.
+- **A quieter AI bar.** When you fold the Grok Bot's turn box away, it stays folded. One slim line keeps telling you which turn the AI is on and why it did what it did. The full box comes back only when you tap the line, when the rig reaches or makes camp, when the trip ends, or when something stops play.
+- **What a trip costs your AI.** The agent page has a new card on what a four-night trip costs an AI to play: about $2 on Claude Sonnet 5.5 and about $6 on Grok, both at list price and both our estimates, plus one night we really played ($0.45, 37 turns). Prices were read November 13.
+- **Tracks now load.** The Tracks switch from an earlier release found nothing to draw on the live site, because its two data files (Custer-Gallatin and the Quartzsite desert) never went up. They go up with this release.
+- **A lighter page.** The first download is about 40 KB smaller (904 KB down to 866 KB, compressed), because the trip, map and morning cards now load just after the first roll.
+- **A privacy page** that says in plain words what the game counts and what each mark means, with credits for OpenStreetMap and the Moon. There is also a plain-text page for AI agents (llms.txt).
+- **Phone polish.** On a phone, lines about something you can see (a deer, the space station, the Moon, a sunrise ridge) now sit low, off the middle of the picture.
+
 ## November 14, 2026, 1:04 PM: Tomorrow's trouble, your morning card, and a quicker first roll
 
 - **Quicker to the first roll.** A first visit now starts the truck with one tap on "Your first night," and you can tap ahead while the ground is still loading. On a phone the scenery waits until you are rolling, so the first minute is lighter.
