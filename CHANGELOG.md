@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 18, 2026, 4:53 PM: Stay on the road, gravel roads, and a quicker wheel
+
+- **Stay on the road.** Let go of the wheel on a mapped road and the truck now holds it, gently. Turn off the road on purpose and it lets you go at once. It rests near camps, and it has its own switch in Help.
+- **Gravel and dirt look like gravel and dirt.** In the Montana forests, roads with no recorded surface are now drawn as light gravel instead of a dark band, dirt roads are brown, and only roads the Forest Service records as paved stay dark. The desert worlds keep their dirt tracks.
+- **A quicker wheel.** With the mouse steering, the truck answers a little sooner: less mouse movement for the same turn, and the wheel gets there faster.
+
 ## November 18, 2026, 2:09 PM: A second desert, Hurricane Cliffs, Utah
 
 - **Hurricane Cliffs, UT.** A new free-camping desert on BLM land near St. George: eight camps, dry washes and red-rock ground. Pick it in the world list.
