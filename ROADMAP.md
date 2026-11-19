@@ -8,6 +8,13 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### November 18, 2026, 10:47 PM: An easier first night
+
+- **One button to start.** Someone new now sees just the name and one big Play button on the first screen. Press it and you are driving to camp. Everything else waits under "More about this game."
+- **Your first drive starts an hour before sunset,** so you reach camp in good light and the night comes on as you settle in.
+- **Take the wheel when you like.** Hold W to drive it yourself (on a phone, tap Stop and a Drive ring shows where your thumb goes). Stop short of camp and the game offers a ride the rest of the way. On your first night the truck also helps you stay on the road.
+- More in the [changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md).
+
 ### November 18, 2026, 4:53 PM: Stay on the road, gravel roads, and a quicker wheel
 
 - **Stay on the road.** Let go of the wheel on a mapped road and the truck now holds it, gently. Turn off the road on purpose and it lets you go at once. It rests near camps, and it has its own switch in Help.
@@ -645,8 +652,7 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **An easier first night.** One press to make camp, a shorter night card, and the first drive starting an hour before sunset.
-- **A simpler camp map on davelalande.com, with water on it.**
+- **Watching the first strangers' first nights, and making whatever still stops them easier.**
 
 ## Ideas we're weighing
 

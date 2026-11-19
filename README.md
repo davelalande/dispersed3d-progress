@@ -33,11 +33,14 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**November 18, 2026, 4:53 PM: Stay on the road, gravel roads, and a quicker wheel**
+**November 18, 2026, 10:47 PM: An easier first night**
 
-- **Stay on the road.** Let go of the wheel on a mapped road and the truck now holds it, gently. Turn off the road on purpose and it lets you go at once. It rests near camps, and it has its own switch in Help.
-- **Gravel and dirt look like gravel and dirt.** In the Montana forests, roads with no recorded surface are now drawn as light gravel instead of a dark band, dirt roads are brown, and only roads the Forest Service records as paved stay dark. The desert worlds keep their dirt tracks.
-- **A quicker wheel.** With the mouse steering, the truck answers a little sooner: less mouse movement for the same turn, and the wheel gets there faster.
+- **One button to start.** Someone new now sees just the name and one big Play button on the first screen. Press it and you are driving to camp. Everything else waits under "More about this game."
+- **Your first drive starts an hour before sunset,** so you reach camp in good light and the night comes on as you settle in.
+- **Take the wheel when you like.** Hold W to drive it yourself (on a phone, tap Stop and a Drive ring shows where your thumb goes). Stop short of camp and the game offers a ride the rest of the way. On your first night the truck also helps you stay on the road.
+- **One press to make camp.** On your first night, "Camp here tonight" makes camp and levels the truck for you. The night card is short: the tent, a fire where the rules allow one, and Settle in. Your first morning starts with the good news.
+- **Play keeps you rolling.** If the road map is slow, Play says it is finding the road and waits, then starts you rolling. Come back before you have slept a night and Play still rolls you to camp.
+- **Fixed on phones:** in "Your first night," the morning buttons no longer cover "See your first night."
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -78,8 +81,7 @@ Each one has its own page with a picture of a real camp near sunset, dated on th
 
 **Up next**
 
-- **An easier first night.** One press to make camp, a shorter night card, and the first drive starting an hour before sunset.
-- **A simpler camp map on davelalande.com, with water on it.**
+- **Watching the first strangers' first nights, and making whatever still stops them easier.**
 
 **Ideas we're weighing** (nothing is built until we decide)
 
