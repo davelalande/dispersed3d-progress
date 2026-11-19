@@ -8,6 +8,12 @@ Jump to: [Live](#live) | [In the preview now](#in-the-preview-now) | [Up next](#
 
 Everything below is in the game you can play today, newest release first.
 
+### November 18, 2026, 4:53 PM: Stay on the road, gravel roads, and a quicker wheel
+
+- **Stay on the road.** Let go of the wheel on a mapped road and the truck now holds it, gently. Turn off the road on purpose and it lets you go at once. It rests near camps, and it has its own switch in Help.
+- **Gravel and dirt look like gravel and dirt.** In the Montana forests, roads with no recorded surface are now drawn as light gravel instead of a dark band, dirt roads are brown, and only roads the Forest Service records as paved stay dark. The desert worlds keep their dirt tracks.
+- **A quicker wheel.** With the mouse steering, the truck answers a little sooner: less mouse movement for the same turn, and the wheel gets there faster.
+
 ### November 18, 2026, 2:09 PM: A second desert, Hurricane Cliffs, Utah
 
 - **Hurricane Cliffs, UT.** A new free-camping desert on BLM land near St. George: eight camps, dry washes and red-rock ground. Pick it in the world list.
@@ -639,7 +645,8 @@ Right now [the preview](https://momatio.com/dispersed3d/try) is the same as the 
 
 ## Up next
 
-- **A gentle stay-on-the-road assist.** A light nudge that helps the truck keep to the road while you drive.
+- **An easier first night.** One press to make camp, a shorter night card, and the first drive starting an hour before sunset.
+- **A simpler camp map on davelalande.com, with water on it.**
 
 ## Ideas we're weighing
 

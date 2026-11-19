@@ -33,13 +33,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**November 18, 2026, 2:09 PM: A second desert, Hurricane Cliffs, Utah**
+**November 18, 2026, 4:53 PM: Stay on the road, gravel roads, and a quicker wheel**
 
-- **Hurricane Cliffs, UT.** A new free-camping desert on BLM land near St. George: eight camps, dry washes and red-rock ground. Pick it in the world list.
-- **Open now, until November 30.** The game plays this place March through May and October through November, the months when the nights normally stay above freezing and the days stay under 90. The window is the game's own, set from the weather service's normal nights; the land office states no closure here. Outside it the list reads "Back Mar 1".
-- **Nobody camps in a wash.** If a recorded camp sits in a dry wash with no road to pull in beside, your pad is moved out onto higher ground nearby (two camps here move: about 118 feet and 20 feet). Flash floods are real, so the game does what you would do.
-- **The forest map names Utah.** The map now tints and labels Utah, and a camp that cannot be placed no longer blanks the map.
-- **First visit.** A stranger who opens the game in the cold half of the year still lands in the Quartzsite desert, because Hurricane Cliffs has the narrower window.
+- **Stay on the road.** Let go of the wheel on a mapped road and the truck now holds it, gently. Turn off the road on purpose and it lets you go at once. It rests near camps, and it has its own switch in Help.
+- **Gravel and dirt look like gravel and dirt.** In the Montana forests, roads with no recorded surface are now drawn as light gravel instead of a dark band, dirt roads are brown, and only roads the Forest Service records as paved stay dark. The desert worlds keep their dirt tracks.
+- **A quicker wheel.** With the mouse steering, the truck answers a little sooner: less mouse movement for the same turn, and the wheel gets there faster.
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
@@ -80,7 +78,8 @@ Each one has its own page with a picture of a real camp near sunset, dated on th
 
 **Up next**
 
-- **A gentle stay-on-the-road assist.** A light nudge that helps the truck keep to the road while you drive.
+- **An easier first night.** One press to make camp, a shorter night card, and the first drive starting an hour before sunset.
+- **A simpler camp map on davelalande.com, with water on it.**
 
 **Ideas we're weighing** (nothing is built until we decide)
 
