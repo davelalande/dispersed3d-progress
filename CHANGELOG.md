@@ -2,6 +2,12 @@
 
 Every release of the live game, newest first. Play it at **[momatio.com/dispersed3d](https://momatio.com/dispersed3d/)**.
 
+## November 19, 2026, 3:53 AM: Forest roads that drive like forest roads
+
+- **Dirt and rock.** Forest roads now look the way they drive: brown-grey dirt with rocks and cobbles worked in, two packed wheel tracks, and a rougher middle. Where the Forest Service records crushed rock, there is simply more stone in the dirt.
+- **Paved forest roads look their age:** an old country two-lane, weathered grey asphalt with faint wheel marks and cracks, crumbly edges melting into the shoulder, and no painted lines.
+- **Fold the top panel and the picture starts right under the one thin line,** with no empty band left behind.
+
 ## November 18, 2026, 10:47 PM: An easier first night
 
 - **One button to start.** Someone new now sees just the name and one big Play button on the first screen. Press it and you are driving to camp. Everything else waits under "More about this game."
