@@ -4,7 +4,7 @@ Every release of the live game, newest first. Play it at **[momatio.com/disperse
 
 ## November 18, 2026, 10:47 PM: An easier first night
 
-- **One button to start.** New here? The first screen is just the name and one big Play button. Press it and you are driving to camp. Everything else waits under "More about this game."
+- **One button to start.** Someone new now sees just the name and one big Play button on the first screen. Press it and you are driving to camp. Everything else waits under "More about this game."
 - **Your first drive starts an hour before sunset,** so you reach camp in good light and the night comes on as you settle in.
 - **Take the wheel when you like.** Hold W to drive it yourself (on a phone, tap Stop and a Drive ring shows where your thumb goes). Stop short of camp and the game offers a ride the rest of the way. On your first night the truck also helps you stay on the road.
 - **One press to make camp.** On your first night, "Camp here tonight" makes camp and levels the truck for you. The night card is short: the tent, a fire where the rules allow one, and Settle in. Your first morning starts with the good news.
