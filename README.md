@@ -33,14 +33,11 @@ This is a game laid over real places, and the real places do most of the work. H
 
 ## What's new
 
-**November 18, 2026, 10:47 PM: An easier first night**
+**November 19, 2026, 3:53 AM: Forest roads that drive like forest roads**
 
-- **One button to start.** Someone new now sees just the name and one big Play button on the first screen. Press it and you are driving to camp. Everything else waits under "More about this game."
-- **Your first drive starts an hour before sunset,** so you reach camp in good light and the night comes on as you settle in.
-- **Take the wheel when you like.** Hold W to drive it yourself (on a phone, tap Stop and a Drive ring shows where your thumb goes). Stop short of camp and the game offers a ride the rest of the way. On your first night the truck also helps you stay on the road.
-- **One press to make camp.** On your first night, "Camp here tonight" makes camp and levels the truck for you. The night card is short: the tent, a fire where the rules allow one, and Settle in. Your first morning starts with the good news.
-- **Play keeps you rolling.** If the road map is slow, Play says it is finding the road and waits, then starts you rolling. Come back before you have slept a night and Play still rolls you to camp.
-- **Fixed on phones:** in "Your first night," the morning buttons no longer cover "See your first night."
+- **Dirt and rock.** Forest roads now look the way they drive: brown-grey dirt with rocks and cobbles worked in, two packed wheel tracks, and a rougher middle. Where the Forest Service records crushed rock, there is simply more stone in the dirt.
+- **Paved forest roads look their age:** an old country two-lane, weathered grey asphalt with faint wheel marks and cracks, crumbly edges melting into the shoulder, and no painted lines.
+- **Fold the top panel and the picture starts right under the one thin line,** with no empty band left behind.
 
 [Every release, in the changelog](https://github.com/davelalande/dispersed3d-progress/blob/main/CHANGELOG.md)
 
